@@ -1,63 +1,42 @@
 from pathlib import Path
-from datetime import datetime
+from datetime import datetime, timezone
 import io
 import pandas as pd
-from espn import get_json, get_text
+from espn import get_text
 
-YEAR = datetime.utcnow().year
-# NFL season year: Aug-Dec = current year, Jan-Feb = previous
-if datetime.utcnow().month < 3:
-    YEAR = YEAR - 1
+now = datetime.now(timezone.utc)
+YEAR = now.year if now.month >= 3 else now.year - 1
 
 NFLVERSE_PLAYERS = "https://github.com/nflverse/nflverse-data/releases/download/players/players.csv"
-NFLVERSE_ROSTER = f"https://github.com/nflverse/nflverse-data/releases/download/rosters/roster_{YEAR}.csv"
-TEAMS_URL = "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams?limit=32"
-ROSTER_URL = "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/{tid}/roster"
+NFLVERSE_ROSTER = "https://github.com/nflverse/nflverse-data/releases/download/rosters/roster_{year}.csv"
 
 DATA = Path("data")
 DATA.mkdir(exist_ok=True)
 
+STATUS_MAP = {
+    "ACT": "Active",
+    "RES": "Reserve/IR",
+    "INA": "Inactive",
+    "CUT": "Cut",
+    "RET": "Retired",
+    "DEV": "Practice Squad",
+    "E14": "Exempt",
+}
+
 def read_csv_url(url):
     raw = get_text(url, sleep=0.2)
-    if not raw:
+    if not raw or len(raw) < 50:
+        print("missing or empty", url)
         return None
     return pd.read_csv(io.BytesIO(raw), dtype=str)
 
-def espn_teams():
-    js = get_json(TEAMS_URL)
-    teams = []
-    for sport in (js or {}).get("sports", []):
-        for league in sport.get("leagues", []):
-            for t in league.get("teams", []):
-                teams.append(t.get("team") or t)
-    return teams
-
-def espn_roster_rows():
-    rows = []
-    for t in espn_teams():
-        roster = get_json(ROSTER_URL.format(tid=t.get("id")), sleep=0.7)
-        if not roster:
-            continue
-        for group in roster.get("athletes") or []:
-            for p in group.get("items") or []:
-                pos = p.get("position") or {}
-                status = p.get("status") or {}
-                inj = (p.get("injuries") or [{}])[0] if p.get("injuries") else {}
-                rows.append({
-                    "espn_id": str(p.get("id") or ""),
-                    "full_name": p.get("fullName") or p.get("displayName"),
-                    "position": pos.get("abbreviation"),
-                    "team_id": str(t.get("id") or ""),
-                    "team_abbr": t.get("abbreviation"),
-                    "team_name": t.get("displayName"),
-                    "status": status.get("name"),
-                    "injury_status": inj.get("status"),
-                    "jersey": p.get("jersey"),
-                    "age": p.get("age"),
-                    "headshot": (p.get("headshot") or {}).get("href"),
-                })
-        print("ESPN roster", t.get("abbreviation"))
-    return pd.DataFrame(rows)
+def clean_id(val):
+    if val is None or str(val).strip() in ("", "nan", "None"):
+        return ""
+    s = str(val).strip()
+    if s.endswith(".0"):
+        s = s[:-2]
+    return s
 
 def main():
     players = read_csv_url(NFLVERSE_PLAYERS)
@@ -65,30 +44,40 @@ def main():
         players.to_csv(DATA / "nflverse_players.csv", index=False)
         print("nflverse players", len(players))
 
-    roster = read_csv_url(NFLVERSE_ROSTER)
+    roster = read_csv_url(NFLVERSE_ROSTER.format(year=YEAR))
     if roster is None:
-        roster = read_csv_url(
-            f"https://github.com/nflverse/nflverse-data/releases/download/rosters/roster_{YEAR-1}.csv"
-        )
-    if roster is not None:
-        roster.to_csv(DATA / "nflverse_roster.csv", index=False)
-        print("nflverse roster", len(roster))
+        roster = read_csv_url(NFLVERSE_ROSTER.format(year=YEAR - 1))
+    if roster is None:
+        raise SystemExit("Could not download nflverse roster")
 
-    espn = espn_roster_rows()
-    if espn.empty:
-        print("No ESPN roster rows")
-        return
-    espn.to_csv(DATA / "espn_roster.csv", index=False)
+    roster.to_csv(DATA / "nflverse_roster.csv", index=False)
+    print("nflverse roster", len(roster))
 
-    # compact master used by the dashboard
-    master = espn.copy()
-    if players is not None and "espn_id" in players.columns:
-        keep = [c for c in ["espn_id", "gsis_id", "sleeper_id", "pfr_id", "yahoo_id", "display_name"] if c in players.columns]
-        merged = master.merge(players[keep].drop_duplicates("espn_id"), on="espn_id", how="left")
-    else:
-        merged = master
-    merged.to_csv(DATA / "players.csv", index=False)
-    print("players master", len(merged))
+    out = pd.DataFrame({
+        "espn_id": roster.get("espn_id", pd.Series(dtype=str)).map(clean_id),
+        "gsis_id": roster.get("gsis_id", pd.Series(dtype=str)).map(clean_id),
+        "sleeper_id": roster.get("sleeper_id", pd.Series(dtype=str)).map(clean_id),
+        "pfr_id": roster.get("pfr_id", pd.Series(dtype=str)).map(clean_id),
+        "yahoo_id": roster.get("yahoo_id", pd.Series(dtype=str)).map(clean_id),
+        "rotowire_id": roster.get("rotowire_id", pd.Series(dtype=str)).map(clean_id),
+        "full_name": roster.get("full_name"),
+        "first_name": roster.get("first_name"),
+        "last_name": roster.get("last_name"),
+        "position": roster.get("position"),
+        "depth_chart_position": roster.get("depth_chart_position"),
+        "team_abbr": roster.get("team"),
+        "jersey": roster.get("jersey_number"),
+        "status_raw": roster.get("status"),
+        "status": roster.get("status").map(lambda x: STATUS_MAP.get(str(x), x) if pd.notna(x) else ""),
+        "years_exp": roster.get("years_exp"),
+        "college": roster.get("college"),
+        "headshot": roster.get("headshot_url"),
+        "season": roster.get("season"),
+    })
+
+    # keep current-season active-ish players first; still write everyone
+    out.to_csv(DATA / "players.csv", index=False)
+    print("players master", len(out), "with espn_id", (out["espn_id"] != "").sum())
 
 if __name__ == "__main__":
     main()
