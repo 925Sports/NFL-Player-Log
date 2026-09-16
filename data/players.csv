@@ -81,6 +81,7 @@ espn_id,gsis_id,sleeper_id,pfr_id,yahoo_id,rotowire_id,full_name,first_name,last
 2576980,00-0032268,2307,MariMa01,28390,10074,Marcus Mariota,Marcus,Mariota,QB,QB,WAS,8,ACT,Active,11,Oregon,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/grx6m1fmu1odltjo3y31",2026
 2971282,00-0032378,3172,BuckDe00,29241,10925,DeForest Buckner,DeForest,Buckner,DL,DT,IND,99,ACT,Active,10,Oregon,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kww3dh6mlqepwp26wxeo",2026
 ,00-0032380,,,,,Laremy Tunsil,Laremy,Tunsil,OL,T,WAS,78,RES,Reserve/IR,10,Mississippi,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gxoga8rszlaaewu5hh0x",2026
+2976592,00-0032385,3200,ShepSt00,29274,10988,Sterling Shepard,Sterling,Shepard,WR,WR,NYJ,15,DEV,Practice Squad,10,Oklahoma,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/l47czwi8aaznnit0se5h",2026
 3115312,00-0032387,3220,ReedJa02,29289,11217,Jarran Reed,Jarran,Reed,DL,NT,SEA,90,ACT,Active,10,Alabama; East Mississippi JC,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/td7umxhgwkswls8rutk0",2026
 ,00-0032391,,,,,Joe Thuney,Joseph,Thuney,OL,G,CHI,62,ACT,Active,10,N.C. State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fstgjypwv8bcpfaae5mi",2026
 3043275,00-0032392,3202,HoopAu00,29315,10748,Austin Hooper,Austin,Hooper,TE,TE,ATL,81,ACT,Active,10,Stanford,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/dd0j9ccd8fxokl48alzg",2026
@@ -234,7 +235,7 @@ espn_id,gsis_id,sleeper_id,pfr_id,yahoo_id,rotowire_id,full_name,first_name,last
 3931399,00-0034361,5036,ReidJu00,31038,12606,Justin Reid,Justin,Reid,DB,SS,NO,21,ACT,Active,8,Stanford,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ysi7vrkwfhei6adamgb3",2026
 4045305,00-0034365,4995,ThomIa00,31071,12858,Ian Thomas,Ian,Thomas,TE,TE,LV,80,ACT,Active,8,Indiana; Nassau CC,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gvpwnq0mjefjlekgzxro",2026
 3126352,00-0034371,5351,HandDa00,31084,12821,Da'Shawn Hand,Da'Shawn,Hand,DL,DT,ATL,90,ACT,Active,8,Alabama,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/c2synfyorkd9gnrvv43v",2026
-3928979,00-0034373,5330,ArmsDo00,31086,12548,Dorance Armstrong,Dorance,Armstrong,LB,OLB,WAS,92,EXE,EXE,8,Kansas,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/iccauovlxlztcx36jitr",2026
+3928979,00-0034373,5330,ArmsDo00,31086,12548,Dorance Armstrong,Dorance,Armstrong,LB,OLB,WAS,92,ACT,Active,8,Kansas,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/iccauovlxlztcx36jitr",2026
 3121003,00-0034376,5341,JohnTa01,31091,12784,Taron Johnson,Taron,Johnson,DB,CB,LV,3,ACT,Active,8,Weber State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ga88tpaiiaafgcecjboi",2026
 3123938,00-0034377,5361,MaddAv00,31095,12683,Avonte Maddox,Avonte,Maddox,DB,FS,DET,29,ACT,Active,8,Pittsburgh,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/j2guzeu1ggx5opajjl3h",2026
 3693166,00-0034381,4999,SweaJo00,31101,12546,Josh Sweat,Josh,Sweat,LB,OLB,ARI,10,ACT,Active,8,Florida State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mfeq6gxl0uurxjsqdbos",2026
@@ -303,7 +304,7 @@ espn_id,gsis_id,sleeper_id,pfr_id,yahoo_id,rotowire_id,full_name,first_name,last
 3895841,00-0034843,4982,HughMi00,31000,12590,Mike Hughes,Michael,Hughes,DB,CB,ATL,21,ACT,Active,8,UCF; Garden City CC; North Carolina,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tncrybucqelrcrsgumds",2026
 3929630,00-0034844,4866,BarkSa00,30972,12507,Saquon Barkley,Saquon,Barkley,RB,RB,PHI,26,ACT,Active,8,Penn State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qcayrzjpura2zydszonh",2026
 ,00-0034847,,,,,Mike McGlinchey,Mike,McGlinchey,OL,T,DEN,69,ACT,Active,8,Notre Dame,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fddsmma8dpk7kqufb6f1",2026
-3047876,00-0034854,5773,HodgKh00,31769,13418,KhaDarel Hodge,KhaDarel,Hodge,WR,WR,SF,86,DEV,Practice Squad,8,Prairie View A&M; Hinds CC; Alcorn State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/r6vyxamrbb62lcccap2r",2026
+3047876,00-0034854,5773,HodgKh00,31769,13418,KhaDarel Hodge,KhaDarel,Hodge,WR,WR,SF,86,DEV,Practice Squad,8,Prairie View A&M; Hinds CC; Alcorn State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mozew14dow474cun5eqp",2026
 3052587,00-0034855,4892,MayfBa00,30971,12619,Baker Mayfield,Baker,Mayfield,QB,QB,TB,6,ACT,Active,8,Oklahoma; Texas Tech,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gjb8e69jtt1ffqf1afue",2026
 3915535,00-0034856,4964,WardDe02,30974,12572,Denzel Ward,Denzel,Ward,DB,CB,CLE,21,ACT,Active,8,Ohio State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mmp5gacrbeeolrsgg5wm",2026
 3918298,00-0034857,4984,AlleJo02,30977,12483,Josh Allen,Joshua,Allen,QB,QB,BUF,17,ACT,Active,8,Wyoming; Reedley,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mjwbioajzldkq1vzoz2d",2026
@@ -313,7 +314,7 @@ espn_id,gsis_id,sleeper_id,pfr_id,yahoo_id,rotowire_id,full_name,first_name,last
 ,00-0034951,,,,,Fred Johnson,Fred,Johnson,OL,T,PHI,74,ACT,Active,7,Florida,"https://static.www.nfl.com/image/private/f_auto,q_auto/league/unogqelkwjhl0qwfbyu5",2026
 3125107,00-0034959,6323,BeckAn01,32225,13713,Andrew Beck,Andrew,Beck,RB,FB,NYJ,47,ACT,Active,7,Texas,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zv8xb3nfxamq7sqa1xqt",2026
 3916433,00-0034960,5947,MeyeJa01,32231,13517,Jakobi Meyers,Jakobi,Meyers,WR,WR,JAX,3,ACT,Active,7,N.C. State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zrs4ij8mvw7wr1uujwew",2026
-3139389,00-0034966,6476,RossDA03,32223,14080,D'Angelo Ross,D'Angelo,Ross,DB,CB,CLE,38,DEV,Practice Squad,7,New Mexico,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/knsvo3gypaqfo3vtnt1o",2026
+3139389,00-0034966,6476,RossDA03,32223,14080,D'Angelo Ross,D'Angelo,Ross,DB,CB,CLE,38,CUT,Cut,7,New Mexico,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/knsvo3gypaqfo3vtnt1o",2026
 4046523,00-0034967,5839,GaryRa00,31844,13651,Rashan Gary,Rashan,Gary,LB,OLB,DAL,7,ACT,Active,7,Michigan,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ew8xw9vqpcmeily0m3fk",2026
 3916655,00-0034973,5991,CrosMa00,31938,13459,Maxx Crosby,Maxx,Crosby,DL,DE,LV,98,ACT,Active,7,Eastern Michigan,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/r9gqe3lrjstj55ydljhk",2026
 4046675,00-0034974,5876,LoveJu00,31940,13533,Julian Love,Julian,Love,DB,SS,SEA,20,ACT,Active,7,Notre Dame,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/l2tncxut7ssqo0ilamxq",2026
@@ -379,7 +380,7 @@ espn_id,gsis_id,sleeper_id,pfr_id,yahoo_id,rotowire_id,full_name,first_name,last
 3124890,00-0035316,6302,ElliKa00,32076,13953,Kaden Elliss,Kaden,Elliss,LB,ILB,NO,55,ACT,Active,7,Idaho,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lndj0awmhdulawkcjgua",2026
 ,00-0035317,,,,,Joshua Miles,Joshua,Miles,OL,T,LV,77,RET,Retired,7,Morgan State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ykzlb5vdb8erowhjhelw",2026
 3138744,00-0035345,6529,MyarCh00,32442,14282,Chris Myarick,Chris,Myarick,TE,TE,LV,41,DEV,Practice Squad,7,Temple,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zyedrh1lvylrutfof4ld",2026
-4035232,00-0035352,6315,DodsTy01,32411,13512,Tyrel Dodson,Tyrel,Dodson,LB,ILB,CAR,33,DEV,Practice Squad,7,Texas A&M,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ssfyc6yarlegh112xeoa",2026
+4035232,00-0035352,6315,DodsTy01,32411,13512,Tyrel Dodson,Tyrel,Dodson,LB,ILB,CAR,33,ACT,Active,7,Texas A&M,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ssfyc6yarlegh112xeoa",2026
 ,00-0035355,,,,,Blake Hance,Blake,Hance,OL,G,LA,72,DEV,Practice Squad,7,Northwestern,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hdxdmuvnrlz3tykblysu",2026
 3916577,00-0035357,6314,LewiCa00,32416,14253,Cam Lewis,Cameron,Lewis,DB,FS,CHI,21,ACT,Active,7,Buffalo,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/daximpzohtbyuaxvak82",2026
 3150744,00-0035358,6650,McLaCh00,32417,14254,Chase McLaughlin,Chase,McLaughlin,K,K,TB,4,ACT,Active,7,Illinois,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/enkzsuyzk232mbq5oe4w",2026
@@ -388,7 +389,7 @@ espn_id,gsis_id,sleeper_id,pfr_id,yahoo_id,rotowire_id,full_name,first_name,last
 3918331,00-0035378,6416,WingAn01,32105,13768,Andrew Wingard,Andrew,Wingard,DB,FS,ARI,28,ACT,Active,7,Wyoming,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lueoe3vqsknnvax0gnmf",2026
 3121544,00-0035386,5960,EdwaTJ02,32403,13460,T.J. Edwards,T.J.,Edwards,LB,OLB,CHI,53,ACT,Active,7,Wisconsin,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tqu3uz4nzkcq4crcepj3",2026
 3918310,00-0035402,5912,GranCa01,32490,13784,Carl Granderson,Carl,Granderson,LB,OLB,NO,96,ACT,Active,7,Wyoming,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bhudfgndbvogastdhvb7",2026
-4039057,00-0035406,5938,HumpLi01,32494,13565,Lil'Jordan Humphrey,Lil'Jordan,Humphrey,WR,WR,DEN,5,CUT,Cut,7,Texas,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/otxrvkflhixz9akhmfqq",2026
+4039057,00-0035406,5938,HumpLi01,32494,13565,Lil'Jordan Humphrey,Lil'Jordan,Humphrey,WR,WR,DEN,5,ACT,Active,7,Texas,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/otxrvkflhixz9akhmfqq",2026
 ,00-0035408,,,,,Nick Moore,Nick,Moore,LS,LS,BAL,46,ACT,Active,7,Georgia,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jq66k7xnacmthlcx6kqx",2026
 3886601,00-0035409,6627,TuttSh00,32497,14286,Shy Tuttle,Shyheim,Tuttle,DL,DT,WAS,96,ACT,Active,7,Tennessee,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lcio402os2qzxmchbvvw",2026
 3116097,00-0035413,6612,GiffLu00,32205,14068,Luke Gifford,Luke,Gifford,LB,MLB,SF,51,ACT,Active,7,Nebraska,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/w1bg0aqsnbulotbxfstd",2026
@@ -400,7 +401,7 @@ espn_id,gsis_id,sleeper_id,pfr_id,yahoo_id,rotowire_id,full_name,first_name,last
 3126997,00-0035544,6588,KennTo01,32561,14246,Tom Kennedy,Thomas,Kennedy,WR,WR,DET,85,ACT,Active,7,Bryant,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cbpuzvde5zqalmkjo0dv",2026
 4421446,00-0035567,6659,ReynCr00,32596,13960,Craig Reynolds,Craig,Reynolds,RB,RB,WAS,32,DEV,Practice Squad,7,Kutztown,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/f5zuttg3hinfqgronrsg",2026
 ,00-0035588,,,,,Garrett Bradbury,Garrett,Bradbury,OL,C,CHI,67,ACT,Active,7,N.C. State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lpe4jgum1im7luvecrc4",2026
-3916071,00-0035589,6045,JennGa00,31952,13635,Gary Jennings,Gary,Jennings,WR,WR,LAC,87,DEV,Practice Squad,7,West Virginia,"https://static.www.nfl.com/image/private/f_auto,q_auto/league/kfmi1ueidfxfixmaggov",2026
+3916071,00-0035589,6045,JennGa00,31952,13635,Gary Jennings,Gary,Jennings,WR,WR,LAC,87,ACT,Active,7,West Virginia,"https://static.www.nfl.com/image/private/f_auto,q_auto/league/kfmi1ueidfxfixmaggov",2026
 4037457,00-0035594,6012,HomeTr00,32036,13484,Travis Homer,Travis,Homer,RB,RB,PIT,21,DEV,Practice Squad,7,Miami,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/dyyclvfaagspov2ydf3i",2026
 3919510,00-0035602,6386,BachAl00,32124,13911,Alex Bachman,Alex,Bachman,WR,WR,LA,11,DEV,Practice Squad,7,Wake Forest,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xebxem8tzjm0yyygaklg",2026
 3116177,00-0035617,6353,ReedTr01,32135,14013,Troy Reeder,Troy,Reeder,LB,MLB,NYJ,50,DEV,Practice Squad,7,Delaware,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/laiuwnorvmneuwvav61k",2026
@@ -455,7 +456,7 @@ espn_id,gsis_id,sleeper_id,pfr_id,yahoo_id,rotowire_id,full_name,first_name,last
 3125280,00-0035821,7215,WaitCo00,32942,15012,Corliss Waitman,Corliss,Waitman,P,P,SF,15,ACT,Active,6,South Alabama,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tob4qaxxwhpmnalutnk8",2026
 ,00-0035827,,,,,Ross Matiscik,Ross,Matiscik,LS,LS,JAX,46,ACT,Active,6,Baylor,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xpeopg39g2uqbfu71hai",2026
 ,00-0035829,,,,,Austen Pleasants,Austen,Pleasants,OL,T,SF,62,RES,Reserve/IR,6,Ohio,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/smhaysadli3ersrjufft",2026
-4034530,00-0035857,7283,WillCh08,33220,15025,Chris Williams,Christopher,Williams,DL,DT,CLE,61,DEV,Practice Squad,6,Wagner,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vznnciqhfciaxujb2a8i",2026
+4034530,00-0035857,7283,WillCh08,33220,15025,Chris Williams,Christopher,Williams,DL,DT,CLE,61,CUT,Cut,6,Wagner,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vznnciqhfciaxujb2a8i",2026
 4045180,00-0035859,7467,GillBl00,33112,14868,Blake Gillikin,Blake,Gillikin,P,P,ARI,12,ACT,Active,6,Penn State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pgasxtghfviimlj55tn0",2026
 3915398,00-0035889,7307,TownTo01,32960,14574,Tommy Townsend,Tommy,Townsend,P,P,TEN,3,ACT,Active,6,Florida,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zwolwrghzfucwck0bwld",2026
 4058925,00-0035890,7301,WharTe00,32952,15077,Tershawn Wharton,Tershawn,Wharton,DL,DT,CAR,98,RES,Reserve/IR,6,Missouri-Rolla,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mj9xqaj2jvv5unjgxomd",2026
@@ -552,12 +553,13 @@ espn_id,gsis_id,sleeper_id,pfr_id,yahoo_id,rotowire_id,full_name,first_name,last
 ,00-0036327,,,,,Ezra Cleveland,Ezra,Cleveland,OL,G,JAX,76,ACT,Active,6,Boise State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/klbtf9vddho85uv3azli",2026
 3858271,00-0036329,6855,DaviAs00,32738,14447,Ashtyn Davis,Ashtyn,Davis,DB,SS,SF,24,ACT,Active,6,California,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/e0ppdz8rxegnsmgkj31q",2026
 4039050,00-0036331,6847,DuveDe00,32762,14636,Devin Duvernay,Devin,Duvernay,WR,WR,ARI,81,ACT,Active,6,Texas,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tj3t166iwsxbnyzxcyyl",2026
+3914151,00-0036332,7050,DeguJo00,32764,14629,Josiah Deguara,Josiah,Deguara,TE,TE,PHI,46,DEV,Practice Squad,6,Cincinnati,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wivlyvbmlm0aogcvl2yz",2026
 4037333,00-0036333,7113,HighAl02,32772,14724,Alex Highsmith,Alex,Highsmith,LB,OLB,PIT,56,ACT,Active,6,Charlotte,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vfi0umrpljsc0cn3vqle",2026
 4038849,00-0036335,6868,WonnDJ00,32787,14612,D.J. Wonnum,Dennis,Wonnum,LB,OLB,DET,98,ACT,Active,6,South Carolina,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ajj965d0f6fmtfprrsgo",2026
 4259181,00-0036337,6858,LyncJa00,32800,14499,James Lynch,James,Lynch,DL,DE,CHI,97,ACT,Active,6,Baylor,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mmgzvvsxc3nffzkzyidq",2026
 4038946,00-0036338,6941,DyexTr00,32802,14740,Troy Dye,Troy,Dye,LB,ILB,LAC,43,ACT,Active,6,Oregon,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gfdhupqzscbwdyhvowq4",2026
 ,00-0036339,,,,,Kevin Dotson,Kevin,Dotson,OL,G,LA,69,ACT,Active,6,Louisiana-Lafayette,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bpsw4ieqbgop8jnqalw9",2026
-4039029,00-0036341,6864,KareKh00,32817,14684,Khalid Kareem,Khalid,Kareem,DL,DE,SF,47,ACT,Active,6,Notre Dame,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wv4cxlitwh8mxxpzvka5",2026
+4039029,00-0036341,6864,KareKh00,32817,14684,Khalid Kareem,Khalid,Kareem,DL,DE,SF,47,ACT,Active,6,Notre Dame,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nwpg39gki6cqnwtl2s39",2026
 3916566,00-0036345,7066,OsboKJ00,32846,14641,K.J. Osborn,K.J.,Osborn,WR,WR,TEN,8,DEV,Practice Squad,6,Miami; Buffalo,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ytgf9lftpnc3hqg81vhj",2026
 ,00-0036347,,,,,Blake Brandel,Blake,Brandel,OL,C,MIN,64,ACT,Active,6,Oregon State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pahzsehwe1mplzelu3wl",2026
 4046537,00-0036348,6901,MeteJo00,32875,14479,Josh Metellus,Joshua,Metellus,DB,SS,MIN,44,ACT,Active,6,Michigan,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gmb2ahv4eq0jphammw2h",2026
@@ -599,6 +601,7 @@ espn_id,gsis_id,sleeper_id,pfr_id,yahoo_id,rotowire_id,full_name,first_name,last
 3911853,00-0036422,6869,TrauAd00,32775,14541,Adam Trautman,Adam,Trautman,TE,TE,DEN,82,ACT,Active,6,Dayton,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bqsgkwkfolczyrxmdp1j",2026
 4035115,00-0036423,6843,OkwuAl00,32788,14369,Albert Okwuegbunam,Albert,Okwuegbunam,TE,TE,LV,85,DEV,Practice Squad,6,Missouri,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ivyip7mtbv6i0wbnlrph",2026
 4240631,00-0036425,6931,DallDe00,32814,14410,DeeJay Dallas,Demetrius,Dallas,RB,RB,MIN,31,DEV,Practice Squad,6,Miami,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qrvemj4m3g2mqlbgy352",2026
+2310331,00-0036427,6960,JohnTy00,32831,14432,Tyler Johnson,Tyler,Johnson,WR,WR,NYJ,15,DEV,Practice Squad,6,Minnesota,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wvdkhxotikdvohhaypee",2026
 3919548,00-0036428,6977,StrnJu00,32848,14757,Justin Strnad,Justin,Strnad,LB,ILB,DEN,40,ACT,Active,6,Wake Forest,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mlrmzoeod0ocotxp2nam",2026
 4035020,00-0036429,7075,WoerCh00,32860,14608,Charlie Woerner,Charlie,Woerner,TE,TE,ATL,89,ACT,Active,6,Georgia,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tuzldnhk23mvsapfejqd",2026
 3915511,00-0036442,6770,BurrJo01,32671,14442,Joe Burrow,Joe,Burrow,QB,QB,CIN,9,ACT,Active,6,LSU; Ohio State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gnnvcgui1cijybukk2w7",2026
@@ -615,7 +618,7 @@ espn_id,gsis_id,sleeper_id,pfr_id,yahoo_id,rotowire_id,full_name,first_name,last
 4240706,00-0036502,7816,PinnJa01,33563,15532,Jason Pinnock,Jason,Pinnock,DB,FS,NYG,25,ACT,Active,5,Pittsburgh,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/l8c9lidz6spvjrp1v831",2026
 4567979,00-0036504,7796,EchoBr00,33588,15626,Brandin Echols,Brandin,Echols,DB,CB,PIT,26,ACT,Active,5,Kentucky,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/igkzt4tpxbb3lfcbfnzw",2026
 4371940,00-0036511,7878,EiflMi00,33696,15388,Milo Eifler,Camilo,Eifler,LB,ILB,TEN,45,RES,Reserve/IR,5,Illinois,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rfmdcyim9q0prw56mzgw",2026
-4608362,00-0036534,8041,ZylsSh00,33803,15701,Shane Zylstra,Shane,Zylstra,TE,TE,NE,80,DEV,Practice Squad,5,Minnesota State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jxq0fpgw6dzavqabgl1j",2026
+4608362,00-0036534,8041,ZylsSh00,33803,15701,Shane Zylstra,Shane,Zylstra,TE,TE,NE,80,CUT,Cut,5,Minnesota State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jxq0fpgw6dzavqabgl1j",2026
 ,00-0036535,,,,,Will Sherman,William,Sherman,OL,G,NO,66,ACT,Active,5,Colorado,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jyrcmwhuedomgnd34qff",2026
 4360939,00-0036550,7571,BateRa00,33415,15210,Rashod Bateman,Rashod,Bateman,WR,WR,BAL,7,ACT,Active,5,Minnesota,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gtktmsfcxc1eijwpwzyq",2026
 ,00-0036551,,,,,Aaron Banks,Aaron,Banks,OL,G,GB,65,ACT,Active,5,Notre Dame,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/g0vbcpdlnxiqnkj8m2wl",2026
@@ -648,7 +651,7 @@ espn_id,gsis_id,sleeper_id,pfr_id,yahoo_id,rotowire_id,full_name,first_name,last
 4035861,00-0036629,7715,BynuCa00,33513,15478,Camryn Bynum,Camryn,Bynum,DB,FS,IND,0,ACT,Active,5,California,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rncq5z5bfhigx2atid7k",2026
 4241424,00-0036630,7595,WallTy00,33519,15310,Tylan Wallace,Tylan,Wallace,WR,WR,CLE,16,ACT,Active,5,Oklahoma State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rifnnpeub6okv41offnd",2026
 4245655,00-0036634,7836,FielTo00,33541,15237,Tony Fields II,Tony,Fields,LB,OLB,CHI,43,RES,Reserve/IR,5,West Virginia,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/dwjp5xpbs6yiekcfjxkx",2026
-4240573,00-0036635,7559,SmitIh00,33545,15287,Ihmir Smith-Marsette,Ihmir,Smith-Marsette,WR,WR,ARI,83,DEV,Practice Squad,5,Iowa,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mnfsun286mv5azpa8zaw",2026
+4240573,00-0036635,7559,SmitIh00,33545,15287,Ihmir Smith-Marsette,Ihmir,Smith-Marsette,WR,WR,ARI,83,CUT,Cut,5,Iowa,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mnfsun286mv5azpa8zaw",2026
 4240472,00-0036637,7828,GrayNo00,33550,15459,Noah Gray,Noah,Gray,TE,TE,KC,83,ACT,Active,5,Duke,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bpmlguml8jth2rbdfyp5",2026
 4239088,00-0036638,7827,ForrDa00,33551,15598,Darrick Forrest,Darrick,Forrest,DB,FS,SF,29,RES,Reserve/IR,5,Cincinnati,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kewtqnt8zc9xtxvlhdq9",2026
 4240612,00-0036642,7818,SlatTe00,33561,15604,Tedarrell Slaton,Tedarrell,Slaton,DL,DT,CIN,98,ACT,Active,5,Florida,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/oktzavt6whxgvr6ukmhl",2026
@@ -670,7 +673,7 @@ espn_id,gsis_id,sleeper_id,pfr_id,yahoo_id,rotowire_id,full_name,first_name,last
 4046716,00-0036695,7853,JoneNa01,33833,15243,Naquan Jones,Naquan,Jones,DL,DT,MIN,91,DEV,Practice Squad,5,Michigan State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/iavprngmsf7pftvw0bsv",2026
 4033855,00-0036705,7844,KamaSa00,33908,15725,Sam Kamara,Sam,Kamara,DL,DT,CLE,92,DEV,Practice Squad,5,Stony Brook,"https://static.www.nfl.com/image/private/f_auto,q_auto/league/aakuha494hvtrja3dwjn",2026
 4038432,00-0036716,7936,OgboAm00,33680,15378,Amen Ogbongbemiga,Amen,Ogbongbemiga,LB,OLB,DET,57,DEV,Practice Squad,5,Oklahoma State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/liyabetbezsk9lvuuphd",2026
-3929914,00-0036727,8025,PrenAd00,33901,15744,Adam Prentice,Adam,Prentice,RB,FB,DEN,46,ACT,Active,5,South Carolina,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xuvyqidnso9ga1dfefoy",2026
+3929914,00-0036727,8025,PrenAd00,33901,15744,Adam Prentice,Adam,Prentice,RB,FB,DEN,46,DEV,Practice Squad,5,South Carolina,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xuvyqidnso9ga1dfefoy",2026
 4044448,00-0036728,8020,RobiCu00,33902,15338,Curtis Robinson,Curtis,Robinson,LB,ILB,DAL,42,DEV,Practice Squad,5,Stanford,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yzam37nstuqvqm0cgzmv",2026
 ,00-0036736,,,,,Kayode Awosika,Kayode,Awosika,OL,G,LAC,74,ACT,Active,5,Buffalo,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gk8c2nrg4czmvjy2by3a",2026
 4242392,00-0036754,7891,WrigBr01,33774,15681,Brock Wright,Brock,Wright,TE,TE,DET,89,ACT,Active,5,Notre Dame,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ghmaeofuj87fm97yhvcp",2026
@@ -732,7 +735,7 @@ espn_id,gsis_id,sleeper_id,pfr_id,yahoo_id,rotowire_id,full_name,first_name,last
 4361422,00-0036940,7626,OwehJa00,33419,15305,Odafe Oweh,Odafe,Oweh,LB,OLB,WAS,98,ACT,Active,5,Penn State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lxeaoe3u7srngnwlyyon",2026
 4361939,00-0036941,7698,CiscAn00,33453,15199,Andre Cisco,Andre,Cisco,DB,SS,NYJ,8,ACT,Active,5,Syracuse,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/sdk8jvmv30mvetujj7bs",2026
 4035840,00-0036942,7695,OdigOs00,33463,15284,Osa Odighizuwa,Osa,Odighizuwa,DL,DT,SF,92,ACT,Active,5,UCLA,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qselmahxlopzx8spnchw",2026
-,00-0036943,,,,,Mitchell Fraboni,Mitchell,Fraboni,LS,LS,DEN,48,ACT,Active,5,Arizona State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/csvbeqtitr9ixpgdt0fu",2026
+,00-0036943,,,,,Mitchell Fraboni,Mitchell,Fraboni,LS,LS,DEN,48,DEV,Practice Squad,5,Arizona State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/csvbeqtitr9ixpgdt0fu",2026
 4362847,00-0036944,7642,HornJa00,33396,15209,Jaycee Horn,Jaycee,Horn,DB,CB,CAR,8,ACT,Active,5,South Carolina,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fmqur86wgh5craixy3yd",2026
 4362887,00-0036945,7591,FielJu00,33399,15416,Justin Fields,Justin,Fields,QB,QB,KC,6,ACT,Active,5,Ohio State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/npjrombgxkc5vjkctcgy",2026
 4040608,00-0036952,7765,CoopJo02,33627,15481,Jonathon Cooper,Jonathon,Cooper,LB,OLB,DEN,0,EXE,EXE,5,Ohio State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rzjdnsaz0sfs9v4xetov",2026
@@ -772,7 +775,7 @@ espn_id,gsis_id,sleeper_id,pfr_id,yahoo_id,rotowire_id,full_name,first_name,last
 4361579,00-0036997,7588,WillJa10,33423,15306,Javonte Williams,Javonte,Williams,RB,RB,DAL,33,ACT,Active,5,North Carolina,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xvwroirev2kie6oiphtz",2026
 4373809,00-0036998,7666,HollJe02,33424,15196,Jevon Holland,Jevon,Holland,DB,FS,NYG,8,ACT,Active,5,Oregon,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/z5pg2azijnijyvqexm4r",2026
 ,00-0037001,,,,,Quinn Meinerz,Quinn,Meinerz,OL,G,DEN,77,ACT,Active,5,Wisconsin-Whitewater,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/e6erzvgu9dsqzec0gfpk",2026
-,00-0037002,,,,,Landon Dickerson,Landon,Dickerson,OL,G,PHI,69,ACT,Active,5,Alabama,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zkgccdubnxvforo1xaqt",2026
+,00-0037002,,,,,Landon Dickerson,Landon,Dickerson,OL,G,PHI,69,RES,Reserve/IR,5,Alabama,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zkgccdubnxvforo1xaqt",2026
 4037521,00-0037003,7673,SurrCh00,33466,15276,Chazz Surratt,Chazz,Surratt,LB,ILB,SEA,44,ACT,Active,5,North Carolina,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/l01b7cc2rfwfkigdhzvg",2026
 4239944,00-0037004,7535,LongHu00,33469,15246,Hunter Long,Hunter,Long,TE,TE,ARI,89,ACT,Active,5,Boston College,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wlj6sdfj5qcy8bt2qyxb",2026
 4372780,00-0037005,7694,TremTo00,33471,15371,Tommy Tremble,Tommy,Tremble,TE,TE,CAR,82,ACT,Active,5,Notre Dame,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/t7wjikfv09d3o1q7wjdx",2026
@@ -809,10 +812,10 @@ espn_id,gsis_id,sleeper_id,pfr_id,yahoo_id,rotowire_id,full_name,first_name,last
 4047655,00-0037106,8702,JoneJa12,,16423,Jaylon Jones,Jaylon,Jones,DB,CB,CHI,33,CUT,Cut,4,Mississippi,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wdcshvjrfqw2ocj3vtvj",2026
 4372576,00-0037109,8363,SanbJa00,34370,15914,Jack Sanborn,Jack,Sanborn,LB,OLB,CHI,57,ACT,Active,4,Wisconsin,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uo386zqnsqbvqzqbm7t2",2026
 4259147,00-0037112,8698,TongJa00,34374,16418,Jake Tonges,Jake,Tonges,TE,TE,SF,88,ACT,Active,4,California,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/z6goxhdhfc2m0rmwvtbl",2026
-4429676,00-0037120,8207,GoodTy00,34261,15990,Tyler Goodson,Tyler,Goodson,RB,RB,ATL,25,DEV,Practice Squad,4,Iowa,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zqmesi6fwv82lhfzlht6",2026
+4429676,00-0037120,8207,GoodTy00,34261,15990,Tyler Goodson,Tyler,Goodson,RB,RB,DAL,25,ACT,Active,4,Iowa,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zqmesi6fwv82lhfzlht6",2026
 4240459,00-0037129,8714,BlacJo00,,16451,Josh Blackwell,Josh,Blackwell,DB,CB,CHI,39,ACT,Active,4,Duke,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/w95cwi511mgmeimkgzyg",2026
 4243956,00-0037130,8406,BlanRe00,34376,15919,Reed Blankenship,Reed,Blankenship,DB,FS,HOU,6,ACT,Active,4,Middle Tennessee State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qbrxcx1jmwabwtdwco3o",2026
-3926231,00-0037132,8414,CoveBr00,34378,16337,Britain Covey,Britain,Covey,WR,WR,PHI,85,DEV,Practice Squad,4,Utah,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jgvgr3prtme8ua28bfxi",2026
+3926231,00-0037132,8414,CoveBr00,34378,16337,Britain Covey,Britain,Covey,WR,WR,PHI,85,ACT,Active,4,Utah,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jgvgr3prtme8ua28bfxi",2026
 4360318,00-0037136,8298,GoodMa02,,15942,Mario Goodrich,Mario,Goodrich,DB,CB,TEN,35,CUT,Cut,4,Clemson,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uap7tsrlmrnvb8ptf02n",2026
 4372020,00-0037137,8275,JobeJo00,34383,16152,Josh Jobe,Josh,Jobe,DB,CB,SEA,29,ACT,Active,4,Alabama,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/df0ybhz5czunkbhgdefc",2026
 ,00-0037138,,,,,Josh Sills,Josh,Sills,OL,G,IND,66,DEV,Practice Squad,4,Oklahoma State; West Virginia,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mkkdzgfaz9a7gsdc8fip",2026
@@ -923,6 +926,7 @@ espn_id,gsis_id,sleeper_id,pfr_id,yahoo_id,rotowire_id,full_name,first_name,last
 4035776,00-0037422,8783,PryoKe00,34476,16519,Kendric Pryor,Kendric,Pryor,WR,WR,CIN,19,CUT,Cut,4,Wisconsin,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fpklza3pwkzdiqjqlene",2026
 ,00-0037428,,,,,Alec Anderson,Alec,Anderson,OL,G,BUF,70,ACT,Active,4,UCLA,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/frlusanzfnfuvcgjc05a",2026
 4240405,00-0037431,8776,JonaKi00,,16499,Kingsley Jonathan,Kingsley,Jonathan,DL,DE,NYJ,57,RES,Reserve/IR,4,Syracuse,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ippwcl86bpdf0ztu1w10",2026
+,00-0037440,,,,,Obinna Eze,Obinna,Eze,OL,T,CLE,62,DEV,Practice Squad,4,TCU; Memphis,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/osxcesk1syo3wl63pl3u",2026
 4033812,00-0037457,8349,HansJa01,34598,15314,Jake Hansen,Jake,Hansen,LB,MLB,HOU,35,ACT,Active,4,Illinois,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/i0pe7wrwhctzokn1kurk",2026
 4250393,00-0037461,8542,McCoTr00,,16545,Tristin McCollum,Tristin,McCollum,DB,SS,LV,27,ACT,Active,4,Sam Houston State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lob4yulcbxvkweblc0dg",2026
 4258237,00-0037468,8578,LaynRa00,,16314,Raheem Layne,Raheem,Layne,DB,SS,NYG,43,DEV,Practice Squad,4,Indiana,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/z3fhkczvsef6tqspduap",2026
@@ -951,7 +955,7 @@ espn_id,gsis_id,sleeper_id,pfr_id,yahoo_id,rotowire_id,full_name,first_name,last
 4243181,00-0037587,8659,LandNa01,34291,15904,Nate Landman,Nate,Landman,LB,ILB,LA,53,ACT,Active,4,Colorado,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/w44rpubxjijvxv0pkfnh",2026
 4367567,00-0037594,8254,ChesJu00,34451,15921,Julius Chestnut,Julius,Chestnut,RB,RB,TEN,36,ACT,Active,4,Sacred Heart University,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bkhv6hpjogvs5b31wwrs",2026
 4249739,00-0037596,8680,GibbJa00,34454,16576,Jack Gibbens,Jack,Gibbens,LB,ILB,ARI,50,ACT,Active,4,Minnesota; Abilene Christian,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cbl2jymi5wc5wxctu1es",2026
-,00-0037601,,,,,Xavier Newman-Johnson,Xavier,Newman-Johnson,OL,G,NYJ,65,DEV,Practice Squad,4,Baylor,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ltlojovue9gzntpaubjn",2026
+,00-0037601,,,,,Xavier Newman-Johnson,Xavier,Newman-Johnson,OL,G,NYJ,65,CUT,Cut,4,Baylor,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ltlojovue9gzntpaubjn",2026
 4569497,00-0037602,8540,OkuaSa00,,16581,Sam Okuayinonu,Sam,Okuayinonu,DL,DE,SF,91,RES,Reserve/IR,4,Maryland,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nbng6hhjkazvx3four5d",2026
 4426326,00-0037611,8355,ThibKa00,33960,15854,Kayvon Thibodeaux,Kayvon,Thibodeaux,LB,OLB,NYG,5,ACT,Active,4,Oregon,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zva5gqbt2nauteuxlcao",2026
 ,00-0037612,,,,,Evan Neal,Evan,Neal,OL,G,LV,73,DEV,Practice Squad,4,Alabama,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ezmw6xnkxdapbcniknrn",2026
@@ -1078,15 +1082,15 @@ espn_id,gsis_id,sleeper_id,pfr_id,yahoo_id,rotowire_id,full_name,first_name,last
 ,00-0038383,,,,,Andrew Vorhees,Andrew,Vorhees,OL,G,BAL,72,ACT,Active,3,USC,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/svbcpu80smbthhzqxvnx",2026
 4685759,00-0038386,10888,CartJa05,40035,16865,Jalen Carter,Jalen,Carter,DL,DT,PHI,98,ACT,Active,3,Georgia,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lzctlmzr184bc1mix5qs",2026
 4567224,00-0038387,10952,WoodCo01,40132,17180,Colby Wooden,Colby,Wooden,DL,DT,NO,50,ACT,Active,3,Auburn,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vexyqlme1a5f74sqktzs",2026
-4362858,00-0038388,10990,RushDa00,40170,16960,Darius Rush,Darius,Rush,DB,CB,WAS,36,DEV,Practice Squad,3,South Carolina,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/a8wtpczcqafcan19xmfm",2026
-4429202,00-0038389,9227,AbanIs00,40165,16735,Israel Abanikanda,Israel,Abanikanda,RB,RB,DAL,25,ACT,Active,3,Pittsburgh,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mt7lgg9gbjcmb2wttxeg",2026
+4362858,00-0038388,10990,RushDa00,40170,16960,Darius Rush,Darius,Rush,DB,CB,WAS,36,CUT,Cut,3,South Carolina,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/a8wtpczcqafcan19xmfm",2026
+4429202,00-0038389,9227,AbanIs00,40165,16735,Israel Abanikanda,Israel,Abanikanda,RB,RB,DAL,25,CUT,Cut,3,Pittsburgh,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mt7lgg9gbjcmb2wttxeg",2026
 4430822,00-0038390,10984,SeweNo00,40172,16756,Noah Sewell,Noah,Sewell,LB,OLB,CHI,46,RES,Reserve/IR,3,Oregon,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/sw5wea1zlc1drxoisej0",2026
 4259592,00-0038391,10983,ClifSe00,40173,17061,Sean Clifford,Sean,Clifford,QB,QB,CIN,4,DEV,Practice Squad,3,Penn State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/v0tmzl4x5qf2fo2yimqf",2026
 4242415,00-0038392,10975,ScotDa03,40205,17108,Daniel Scott,Daniel,Scott,DB,SS,IND,32,DEV,Practice Squad,3,California,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zhfuulvqg8vgqfx738ey",2026
 4428850,00-0038393,9486,WickDo00,40201,16658,Dontayvion Wicks,Dontayvion,Wicks,WR,WR,PHI,13,ACT,Active,3,Virginia,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/v1lt8kpvkn0qw5elyaoz",2026
 4362523,00-0038394,10220,MallWi00,40180,17014,Will Mallory,Will,Mallory,TE,TE,IND,86,RES,Reserve/IR,3,Miami,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/sl1pkiox1hucg9sxttfi",2026
 4360935,00-0038395,10972,SmitTe05,40175,17341,Terell Smith,Terell,Smith,DB,CB,WAS,47,DEV,Practice Squad,3,Minnesota,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/azhrgsawgwgxed3z2dke",2026
-4570561,00-0038396,10223,GrayEr01,40198,16970,Eric Gray,Eric,Gray,RB,RB,NYG,20,CUT,Cut,3,Oklahoma; Tennessee,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ijjxwxv1ccyowzhpuw2k",2026
+4570561,00-0038396,10223,GrayEr01,40198,16970,Eric Gray,Eric,Gray,RB,RB,CLE,20,DEV,Practice Squad,3,Oklahoma; Tennessee,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ijjxwxv1ccyowzhpuw2k",2026
 4569609,00-0038397,9220,HullEv00,40169,16676,Evan Hull,Evan,Hull,RB,RB,ARI,26,DEV,Practice Squad,3,Northwestern,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xyyujk9mvvzegaiefp51",2026
 4373423,00-0038398,11009,BrooKa00,40238,16921,Karl Brooks,Karl,Brooks,DL,DT,GB,94,ACT,Active,3,Bowling Green,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ymjmzn6ayhfpkdrtydyd",2026
 4362234,00-0038399,11000,BarnZa00,40233,17303,Zaire Barnes,Zaire,Barnes,LB,ILB,NYG,46,ACT,Active,3,Western Michigan,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jnyarp6uvues6avvg9xa",2026
@@ -1115,10 +1119,10 @@ espn_id,gsis_id,sleeper_id,pfr_id,yahoo_id,rotowire_id,full_name,first_name,last
 4240391,00-0038476,11292,DeViTo00,40533,16797,Tommy DeVito,Tommy,DeVito,QB,QB,NE,16,ACT,Active,3,Illinois; Syracuse,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hb3m2zbfb5aprw6vdqx8",2026
 4362280,00-0038479,11297,JohnDy00,,17516,Dyontae Johnson,Dyontae,Johnson,LB,OLB,TEN,45,CUT,Cut,3,Toledo,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/evfpo59fjpb65grbfu0t",2026
 4243176,00-0038488,11280,RussBr00,40519,17235,Brady Russell,Brady,Russell,RB,FB,SEA,38,ACT,Active,3,Colorado,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vfz3osmr3fgeoyu5us80",2026
-4372070,00-0038489,11273,VanSBe00,40518,17167,Ben VanSumeren,Ben,VanSumeren,RB,FB,KC,47,ACT,Active,3,Michigan State; Michigan,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ncnb1nwr2b1usus557xy",2026
+4372070,00-0038489,11273,VanSBe00,40518,17167,Ben VanSumeren,Ben,VanSumeren,RB,FB,KC,47,DEV,Practice Squad,3,Michigan State; Michigan,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ncnb1nwr2b1usus557xy",2026
 4689988,00-0038492,11311,BrowJa07,40545,17182,Jason Brownlee,Jason,Brownlee,WR,WR,KC,89,CUT,Cut,3,Southern Mississippi,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lxmpoub3eslnvevtpoqf",2026
 4256224,00-0038493,11305,CherCl00,40547,17534,Claudin Cherelus,Claudin,Cherelus,LB,ILB,CAR,53,ACT,Active,3,Alcorn State; UMass Amherst,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nrqd1waoajdyblwerius",2026
-4360235,00-0038494,11309,DeanTr00,,17357,Trey Dean III,Trey,Dean,DB,SS,GB,35,RES,Reserve/IR,3,Florida,"https://static.www.nfl.com/image/private/f_auto,q_auto/league/egycpb5zv75wp0ytluhl",2026
+4360235,00-0038494,11309,DeanTr00,,17357,Trey Dean III,Trey,Dean,DB,SS,GB,35,CUT,Cut,3,Florida,"https://static.www.nfl.com/image/private/f_auto,q_auto/league/egycpb5zv75wp0ytluhl",2026
 4427278,00-0038496,11306,GipsXa00,40548,17045,Xavier Gipson,Xavier,Gipson,WR,WR,PHI,86,DEV,Practice Squad,3,Stephen F. Austin State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/o81mvslx374ouca313mw",2026
 4248557,00-0038498,11304,JenkEJ00,,17218,E.J. Jenkins,Emanuel,Jenkins,TE,TE,PHI,84,ACT,Active,3,Georgia Tech; South Carolina; St. Francis PA,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jmhuk0gcnyotcjhdxo6v",2026
 4430831,00-0038504,10935,SimpTr00,40116,16712,Trenton Simpson,Trenton,Simpson,LB,ILB,BAL,32,ACT,Active,3,Clemson,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hoi5uajg40os0xa1odi9",2026
@@ -1130,7 +1134,7 @@ espn_id,gsis_id,sleeper_id,pfr_id,yahoo_id,rotowire_id,full_name,first_name,last
 4372716,00-0038519,11320,RemiNi00,40571,16744,Nikko Remigio,Nikko,Remigio,WR,WR,KC,81,ACT,Active,3,Fresno State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/n6b1tsy32fswbd0xgsim",2026
 4371946,00-0038521,,TaylRe01,,16858,Reese Taylor,Reese,Taylor,DB,CB,MIA,35,ACT,Active,3,Purdue,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/sgzl6u9ggxuea9qcbveg",2026
 4373814,00-0038523,11489,HailKa00,40756,17362,Kahlef Hailassie,Kahlef,Hailassie,DB,FS,GB,25,DEV,Practice Squad,3,Western Kentucky; Oregon,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jfgdmued5u7dszjnao85",2026
-4240623,00-0038535,10938,JohnDJ00,,16680,DJ Johnson,D.J.,Johnson,LB,OLB,WAS,53,DEV,Practice Squad,3,Oregon; Miami,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/skdbejfdghlnyipusgll",2026
+4240623,00-0038535,10938,JohnDJ00,,16680,DJ Johnson,D.J.,Johnson,LB,OLB,WAS,53,CUT,Cut,3,Oregon; Miami,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/skdbejfdghlnyipusgll",2026
 ,00-0038536,,,,,Chandler Zavala,Chandler,Zavala,OL,G,CAR,62,DEV,Practice Squad,3,N.C. State; Fairmont State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/h1jwlle0qeo7mtax2pc9",2026
 ,00-0038540,,,,,Paris Johnson Jr.,Paris,Johnson,OL,T,ARI,70,ACT,Active,3,Ohio State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fto9oiuqts9esmpl7dxf",2026
 4372533,00-0038541,10889,WilsTy01,40043,17149,Tyree Wilson,Tyree,Wilson,LB,OLB,NO,98,ACT,Active,3,Texas Tech,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ildmh1dcqbamtixdpgse",2026
@@ -1153,7 +1157,7 @@ espn_id,gsis_id,sleeper_id,pfr_id,yahoo_id,rotowire_id,full_name,first_name,last
 4430802,00-0038558,9479,WashDa03,40094,16889,Darnell Washington,Darnell,Washington,TE,TE,PIT,80,ACT,Active,3,Georgia,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/inwx7uipfktapaump5pj",2026
 4360761,00-0038559,10232,WilsMi02,40121,16957,Michael Wilson,Michael,Wilson,WR,WR,ARI,14,ACT,Active,3,Stanford,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hm2b9z4zujjmbiyldh8n",2026
 4567098,00-0038560,10927,BattJo00,40117,17368,Jordan Battle,Jordan,Battle,DB,SS,CIN,27,ACT,Active,3,Alabama,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/iydwxwxig8e2godjx070",2026
-4372066,00-0038562,10937,MoodJa00,40129,17133,Jake Moody,Jake,Moody,K,K,BAL,16,DEV,Practice Squad,3,Michigan,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/apt7uakuwoxlpsjp5lp5",2026
+4372066,00-0038562,10937,MoodJa00,40129,17133,Jake Moody,Jake,Moody,K,K,BAL,16,CUT,Cut,3,Michigan,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/apt7uakuwoxlpsjp5lp5",2026
 4428718,00-0038563,10213,TuckTr00,40114,16694,Tre Tucker,Tre,Tucker,WR,WR,LV,1,ACT,Active,3,Cincinnati,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hazzk3hrcequzosdgzgv",2026
 4372026,00-0038564,10210,LatuCa01,40101,16931,Cameron Latu,Cameron,Latu,TE,TE,NE,36,ACT,Active,3,Alabama,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hquihmithkmhoncvkqwt",2026
 4360677,00-0038565,10918,BlacMe00,40103,16813,Mekhi Blackmon,Mekhi,Blackmon,DB,CB,CLE,29,ACT,Active,3,USC; Colorado,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wrzakzdbmugca60xbidc",2026
@@ -1183,7 +1187,7 @@ espn_id,gsis_id,sleeper_id,pfr_id,yahoo_id,rotowire_id,full_name,first_name,last
 ,00-0038595,,,,,Jordan McFadden,Jordan,McFadden,OL,G,CHI,74,ACT,Active,3,Clemson,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qq6khttphfxwahgedbhu",2026
 4429168,00-0038596,10974,JohnAn07,40166,17369,Antonio Johnson,Antonio,Johnson,DB,SS,JAX,6,ACT,Active,3,Texas A&M,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rrxemukb8b2to7ba2g56",2026
 4362238,00-0038597,9224,BrowCh10,40196,16934,Chase Brown,Chase,Brown,RB,RB,CIN,30,ACT,Active,3,Illinois; Western Michigan,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tch3y6jlj7khvyi9jg0c",2026
-4426350,00-0038599,10970,TooTHe00,40189,17121,Henry To'oTo'o,Henry,To'oTo'o,LB,OLB,HOU,39,ACT,Active,3,Alabama; Tennessee,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/epsdr0zqlm2vrhizwama",2026
+4426350,00-0038599,10970,TooTHe00,40189,17121,Henry To'oTo'o,Henry,To'oTo'o,LB,OLB,HOU,39,RES,Reserve/IR,3,Alabama; Tennessee,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/epsdr0zqlm2vrhizwama",2026
 4567219,00-0038600,10969,PappOw00,40200,16673,Owen Pappoe,Owen,Pappoe,LB,MLB,TEN,40,ACT,Active,3,Auburn,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zv35eeyd3oxxkecrvqra",2026
 ,00-0038601,,,,,Asim Richards,Asim,Richards,OL,T,NO,72,ACT,Active,3,North Carolina,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/i1lfvb8gnw3kfnz3cdyb",2026
 4259558,00-0038603,10966,BealRo00,40181,16781,Rob Beal Jr.,Robert,Beal,DL,DE,MIA,51,ACT,Active,3,Georgia,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/clzzji0rtncdzzxhtpux",2026
@@ -1196,7 +1200,7 @@ espn_id,gsis_id,sleeper_id,pfr_id,yahoo_id,rotowire_id,full_name,first_name,last
 4362619,00-0038611,10219,RodrCh00,40231,16933,Chris Rodriguez Jr.,Christopher,Rodriguez,RB,RB,JAX,24,ACT,Active,3,Kentucky,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pknd5uajvpvfd8c744im",2026
 4570084,00-0038613,10997,ReedJe00,40239,17347,Jerrick Reed II,Jerrick,Reed,DB,SS,TEN,28,DEV,Practice Squad,3,New Mexico; Northwest Mississippi CC,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jdg6nd5cot2srdfixjnv",2026
 4373684,00-0038614,10994,MatlSc00,40225,16767,Scott Matlock,Scott,Matlock,RB,FB,LAC,44,RES,Reserve/IR,3,Boise State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/biif35k2hwpqmhlxn0sa",2026
-,00-0038615,,,,,Jarrett Patterson,Jarrett,Patterson,OL,C,SF,58,ACT,Active,3,Notre Dame,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/co5jzan7q6a0ptxkkmcd",2026
+,00-0038615,,,,,Jarrett Patterson,Jarrett,Patterson,OL,C,SF,58,ACT,Active,3,Notre Dame,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tf57af5og2u6ybvb4vo1",2026
 4257580,00-0038616,11018,BrasCh00,40208,17410,Christian Braswell,Christian,Braswell,DB,CB,JAX,21,ACT,Active,3,Rutgers; Temple,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yubjkyjtl24cmt20ycbw",2026
 4360239,00-0038617,11003,BurnAm00,40235,17169,Amari Burney,Amari,Burney,LB,OLB,JAX,49,CUT,Cut,3,Florida,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nqqv3zewlmrlel62jixa",2026
 4686422,00-0038618,10218,HutcXa00,40232,16932,Xavier Hutchinson,Xavier,Hutchinson,WR,WR,HOU,19,ACT,Active,3,Iowa State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/n5baiu6sg9wh3xhhewkd",2026
@@ -1215,7 +1219,7 @@ espn_id,gsis_id,sleeper_id,pfr_id,yahoo_id,rotowire_id,full_name,first_name,last
 4692835,00-0038640,11034,BrooJa03,40257,17185,Jalen Brooks,Jalen,Brooks,WR,WR,ARI,86,ACT,Active,3,South Carolina; Tarleton State; Wingate,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xeg0tvg6klf0afgddkq6",2026
 4711029,00-0038641,11033,BoldIs00,,17343,Isaiah Bolden,Isaiah,Bolden,DB,CB,PHI,49,CUT,Cut,3,Jackson State University,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/at3zmsf7seu7exc1d4od",2026
 4362502,00-0038642,11032,IveyDJ00,40259,16672,D.J. Ivey,D.J.,Ivey,DB,CB,CIN,38,ACT,Active,3,Miami,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bgycp6whsc4bd61aumsq",2026
-4360290,00-0038643,10224,WillBr06,40261,17010,Brayden Willis,Brayden,Willis,TE,TE,SF,9,DEV,Practice Squad,3,Oklahoma,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/sdifjifrgrvunhiigdub",2026
+4360290,00-0038643,10224,WillBr06,40261,17010,Brayden Willis,Brayden,Willis,TE,TE,SF,9,ACT,Active,3,Oklahoma,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/sdifjifrgrvunhiigdub",2026
 4568662,00-0038644,11031,HillBr03,,17363,Brandon Hill,Brandon,Hill,DB,SS,PIT,30,CUT,Cut,3,Pittsburgh,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cmhc0px1zf7xuxcqbqng",2026
 ,00-0038645,,,,,Spencer Anderson,Spencer,Anderson,OL,G,PIT,74,ACT,Active,3,Maryland,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gtpey4tnh0dkqjlux3gz",2026
 4426599,00-0038646,11027,AustAl00,,17092,Alex Austin,Alex,Austin,DB,CB,MIA,26,CUT,Cut,3,Oregon State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xhouenbvagbqn4jbbtge",2026
@@ -1242,7 +1246,7 @@ espn_id,gsis_id,sleeper_id,pfr_id,yahoo_id,rotowire_id,full_name,first_name,last
 4567403,00-0038711,11350,DiabMo00,40598,16837,Mohamoud Diabate,Mohamoud,Diabate,LB,OLB,TEN,44,DEV,Practice Squad,3,Utah,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/to8prswizs9iqvpqqbay",2026
 4569620,00-0038715,11352,HickRo00,40597,17100,Ronnie Hickman Jr.,Ronnie,Hickman,DB,FS,CLE,33,ACT,Active,3,Ohio State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ds24p7j86p9mwshsjvbu",2026
 ,00-0038716,,,,,Jeremiah Martin,Jeremiah,Martin,DL,DE,CHI,69,CUT,Cut,3,Washington; Texas A&M,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ekuhmi6hzm0np3nybzgg",2026
-4361824,00-0038717,11353,McCaTa00,,17348,Tanner McCalister,Tanner,McCalister,DB,FS,KC,34,DEV,Practice Squad,3,Ohio State; Oklahoma State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/c9jj95kbpqkultyasp1c",2026
+4361824,00-0038717,11353,McCaTa00,,17348,Tanner McCalister,Tanner,McCalister,DB,FS,KC,34,CUT,Cut,3,Ohio State; Oklahoma State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/c9jj95kbpqkultyasp1c",2026
 4365395,00-0038720,11371,HillJu02,40629,17335,Julian Hill,Julian,Hill,TE,TE,NE,89,RES,Reserve/IR,3,Campbell University,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/idjirwpxilfybc74zhwr",2026
 4243321,00-0038724,11062,GayeAl01,,16786,Ali Gaye,Ali,Gaye,DL,DE,HOU,95,RES,Reserve/IR,3,LSU; Garden City CC; Arizona Western,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ctzqzcp9fu31oplmkvnx",2026
 4430681,00-0038728,11056,WaynJa01,40288,16847,Jared Wayne,Jared,Wayne,WR,WR,HOU,17,ACT,Active,3,Pittsburgh,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ykhrjnmqsqyprplhy6pl",2026
@@ -1267,7 +1271,7 @@ espn_id,gsis_id,sleeper_id,pfr_id,yahoo_id,rotowire_id,full_name,first_name,last
 4689674,00-0038788,11440,GreeAr01,,17360,Art Green,Art,Green,DB,CB,NYG,23,CUT,Cut,3,Houston,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qzhydlbsekmp6x7gx6pn",2026
 4714157,00-0038791,11441,IncoTh00,40698,17101,Thomas Incoom,Thomas,Incoom,LB,OLB,CAR,48,ACT,Active,3,Central Michigan; Valdosta State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rcrh2zr9mxex16czv1eo",2026
 ,00-0038792,,,,,Demontrey Jacobs,Demontrey,Jacobs,OL,T,ARI,67,DEV,Practice Squad,3,South Florida Community College; Grambling State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/u3aknrx8tn2qjh8o4wua",2026
-4722893,00-0038794,11439,McLaJa00,40696,17319,Jaleel McLaughlin,Jaleel,McLaughlin,RB,RB,CLE,38,DEV,Practice Squad,3,Youngstown State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jlzkji7mfkcmkyz2tygj",2026
+4722893,00-0038794,11439,McLaJa00,40696,17319,Jaleel McLaughlin,Jaleel,McLaughlin,RB,RB,CLE,38,ACT,Active,3,Youngstown State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jlzkji7mfkcmkyz2tygj",2026
 ,00-0038796,,,,,Alex Palczewski,Alex,Palczewski,OL,T,DEN,63,ACT,Active,3,Illinois,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tiyl83okzrfi50hqyzid",2026
 4887558,00-0038797,11435,WilsEm00,40707,17593,Emanuel Wilson,Emanuel,Wilson,RB,RB,SEA,23,ACT,Active,3,Fort Valley State College,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uorruvczsxzvffpbxu8z",2026
 4577333,00-0038801,11084,CartAn01,,16924,Andre Carter II,Andre,Carter,LB,OLB,LAC,51,DEV,Practice Squad,3,Army,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wcegripe6c8koovd8htl",2026
@@ -1439,7 +1443,7 @@ espn_id,gsis_id,sleeper_id,pfr_id,yahoo_id,rotowire_id,full_name,first_name,last
 4430182,00-0039285,12056,MonrJa00,,18207,Jarius Monroe,Jarius,Monroe,DB,FS,NYJ,25,CUT,Cut,2,Tulane; Colorado,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/b3txbatszz4qastkzivi",2026
 4361101,00-0039288,,SirmJa00,,18058,Jackson Sirmon,Jackson,Sirmon,LB,ILB,NO,47,DEV,Practice Squad,2,California; Washington,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zyqgfn5klopemn3prpwc",2026
 4431598,00-0039289,12031,TaylLe01,,17726,Leonard Taylor III,Leonard,Taylor,DL,DT,NE,93,ACT,Active,2,Miami,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/id0gc6aoq3qfokpcu9os",2026
-4371336,00-0039292,12234,BartSh00,,18200,Shemar Bartholomew,Shemar,Bartholomew,DB,CB,TEN,45,DEV,Practice Squad,2,Georgia Southern; Northwestern State (LA),"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/oehvtzmh4uhwwsfliskq",2026
+4371336,00-0039292,12234,BartSh00,,18200,Shemar Bartholomew,Shemar,Bartholomew,DB,CB,TEN,45,CUT,Cut,2,Georgia Southern; Northwestern State (LA),"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/oehvtzmh4uhwwsfliskq",2026
 4429835,00-0039299,12048,HolaGe00,41344,17968,George Holani,George,Holani,RB,RB,SEA,36,ACT,Active,2,Boise State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pgwvv5qhcmnwf3tomy1a",2026
 4361100,00-0039305,12045,WestJa01,41352,18083,Jack Westover,Jack,Westover,TE,TE,WAS,89,DEV,Practice Squad,2,Washington,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zpo5vbntn8b9hih2fi66",2026
 4570040,00-0039309,11668,MurpBy01,,17736,Byron Murphy II,Byron,Murphy,DL,DT,SEA,91,ACT,Active,2,Texas,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xeq70yetr8qznbkjjiye",2026
@@ -1471,7 +1475,7 @@ espn_id,gsis_id,sleeper_id,pfr_id,yahoo_id,rotowire_id,full_name,first_name,last
 ,00-0039351,,,,,Dominick Puni,Dominick,Puni,OL,G,SF,77,ACT,Active,2,Kansas; Central Missouri,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xwahfywaifoc9kaez6lk",2026
 4427816,00-0039352,11720,LiufMa00,,17769,Marist Liufau,Marist,Liufau,LB,OLB,DAL,35,RES,Reserve/IR,2,Notre Dame,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/i81dbzylyw2mv7odmdck",2026
 4426448,00-0039353,11725,JoneJa14,,17778,Jarrian Jones,Jarrian,Jones,DB,CB,JAX,4,ACT,Active,2,Florida State; Mississippi State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zauu0tt26tt32qevyvtm",2026
-4692680,00-0039354,11713,JackMc00,,17780,McKinnley Jackson,McKinnley,Jackson,DL,DT,CIN,91,CUT,Cut,2,Texas A&M,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bxrqtpwrbcvzxcekerxf",2026
+4692680,00-0039354,11713,JackMc00,,17780,McKinnley Jackson,McKinnley,Jackson,DL,DT,SF,91,DEV,Practice Squad,2,Texas A&M,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bxrqtpwrbcvzxcekerxf",2026
 4426948,00-0039355,11650,McCaLu00,40964,17820,Luke McCaffrey,Luke,McCaffrey,WR,WR,WAS,11,ACT,Active,2,Rice; Nebraska,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xtxiwlkniuldrqg65n3q",2026
 4431588,00-0039356,11600,SandJa01,40995,17748,Ja'Tavion Sanders,Ja'Tavion,Sanders,TE,TE,CAR,0,ACT,Active,2,Texas,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/le2akm1cbou170ioctxl",2026
 4605498,00-0039357,11738,RichDe01,,17983,Decamerion Richardson,Decamerion,Richardson,DB,CB,NO,25,ACT,Active,2,Mississippi State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/glaqpoapm3t8ponuj55p",2026
@@ -1539,7 +1543,7 @@ espn_id,gsis_id,sleeper_id,pfr_id,yahoo_id,rotowire_id,full_name,first_name,last
 4372062,00-0039429,11843,BarrMi00,,17854,Michael Barrett,Michael,Barrett,LB,ILB,BAL,54,CUT,Cut,2,Michigan,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ybfsxk9ojuyjvv6t6zh0",2026
 4431613,00-0039430,11847,WillJa15,,17834,James Williams,James,Williams,LB,OLB,TEN,52,ACT,Active,2,Miami,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/r31rpfa1ju3bqddeuhom",2026
 4426676,00-0039431,11846,BrigJo00,,18079,Jowon Briggs,Jowon,Briggs,DL,DT,NYJ,91,ACT,Active,2,Cincinnati; Virginia,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wbqozrnxtjjuf3nwv760",2026
-4573152,00-0039433,11828,HarrMa08,,17840,Marcus Harris,Marcus,Harris,DL,DT,KC,96,ACT,Active,2,Auburn; Kansas,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uekrrvgronz3fkb957hf",2026
+4573152,00-0039433,11828,HarrMa08,,17840,Marcus Harris,Marcus,Harris,DL,DT,KC,96,DEV,Practice Squad,2,Auburn; Kansas,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uekrrvgronz3fkb957hf",2026
 4426698,00-0039435,11842,BethTa00,,17961,Tatum Bethune,Tatum,Bethune,LB,MLB,SF,48,ACT,Active,2,Florida State; UCF,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/l2s0tyb8yoet0rohrik5",2026
 4429058,00-0039436,11835,HarrJa05,,17682,Jaylen Harrell,Jaylen,Harrell,LB,OLB,TEN,92,RES,Reserve/IR,2,Michigan,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tlijnhz6kshuwcnjha1m",2026
 4426479,00-0039437,11815,JohnCo02,41099,17051,Cornelius Johnson,Cornelius,Johnson,WR,WR,BAL,86,CUT,Cut,2,Michigan,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fml6omt7xsb5bw3w75sm",2026
@@ -1842,7 +1846,7 @@ espn_id,gsis_id,sleeper_id,pfr_id,yahoo_id,rotowire_id,full_name,first_name,last
 4565311,00-0040076,12696,PeebAe00,,18700,Aeneas Peebles,Aeneas,Peebles,DL,DT,BAL,90,ACT,Active,1,Virginia Tech; Duke,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pzcjpjjrkwtkbp60ti5k",2026
 4575860,00-0040077,12695,LongRo00,,18612,Robert Longerbeam,Robert,Longerbeam,DB,CB,PHI,38,DEV,Practice Squad,1,Rutgers,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/trntqnyxey3vjzredean",2026
 4596602,00-0040078,12455,SmitBr09,,18529,Brashard Smith,Brashard,Smith,RB,RB,KC,24,ACT,Active,1,SMU; Miami,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xnf4x6b9a2yunsc0gaej",2026
-,00-0040079,,,,,Garrett Dellinger,Garrett,Dellinger,OL,G,TEN,71,CUT,Cut,1,LSU,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yvxpchw3k1rzu0jq5575",2026
+,00-0040079,,,,,Garrett Dellinger,Garrett,Dellinger,OL,G,TEN,71,DEV,Practice Squad,1,LSU,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yvxpchw3k1rzu0jq5575",2026
 4431196,00-0040081,12817,BrinJa00,,18542,Jake Briningstool,Jake,Briningstool,TE,TE,KC,88,ACT,Active,1,Clemson,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/q7n84oth87v1glz5a5sz",2026
 ,00-0040083,,,,,Dalton Cooper,Dalton,Cooper,OL,T,GB,78,DEV,Practice Squad,1,Oklahoma State; Texas State-San Marcos,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/d0yblqhzbyrtbs2ikplp",2026
 ,00-0040087,,,,,Brandon George,Cornelius,George,LB,MLB,PHI,45,CUT,Cut,1,Pittsburgh,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kxesbzvttthbd29wuu3m",2026
@@ -1903,7 +1907,7 @@ espn_id,gsis_id,sleeper_id,pfr_id,yahoo_id,rotowire_id,full_name,first_name,last
 4429110,00-0040159,12611,RansLa00,,18625,Lathan Ransom,Lathan,Ransom,DB,SS,CAR,22,ACT,Active,1,Ohio State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gg0ztjfsso4y7yx4fxfb",2026
 4431590,00-0040160,12593,SawyJa00,,18659,Jack Sawyer,Jack,Sawyer,LB,OLB,PIT,33,ACT,Active,1,Ohio State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bsfaucfu7cawckhpr73k",2026
 4432333,00-0040161,12643,KennKy00,,18668,Kyle Kennard,Kyle,Kennard,LB,OLB,LAC,54,RES,Reserve/IR,1,South Carolina,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/enodzm0fwoad2afpbuns",2026
-5081397,00-0040162,12469,SampDy00,,18467,Dylan Sampson,Dylan,Sampson,RB,RB,CLE,22,ACT,Active,1,Tennessee,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/den1hzzomdxfcsgk88o5",2026
+5081397,00-0040162,12469,SampDy00,,18467,Dylan Sampson,Dylan,Sampson,RB,RB,CLE,22,RES,Reserve/IR,1,Tennessee,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/den1hzzomdxfcsgk88o5",2026
 ,00-0040163,,,,,Jalen Travis,Jalen,Travis,OL,T,IND,75,ACT,Active,1,Iowa State; Princeton,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lamodmrvaqz9i3kpct0b",2026
 4602667,00-0040164,12641,LaneJa00,,18643,Jaylin Lane,Jaylin,Lane,WR,WR,WAS,83,ACT,Active,1,Virginia Tech; Middle Tennessee State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fa5ufxqxs3hzioih3cfb",2026
 4692024,00-0040165,12639,MoorMa04,,18631,Malachi Moore,Malachi,Moore,DB,FS,NYJ,27,ACT,Active,1,Alabama,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ftgqzch3vvsodlhud39f",2026
@@ -1925,7 +1929,7 @@ espn_id,gsis_id,sleeper_id,pfr_id,yahoo_id,rotowire_id,full_name,first_name,last
 ,00-0040181,,,,,Marcus Mbow,Marcus,Mbow,OL,T,NYG,71,ACT,Active,1,Purdue,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tcuix9kjptef9xrgpdoz",2026
 4431664,00-0040182,12673,TradDa00,,18630,Dante Trader Jr.,Dante,Trader,DB,FS,MIA,11,ACT,Active,1,Maryland,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nffbi3a32ngmczzvxcz0",2026
 4690795,00-0040183,12671,RobeEl01,,18675,Elijah Roberts,Elijah,Roberts,DL,DE,TB,95,ACT,Active,1,SMU; Miami,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/konvzhfxyunroyoihh4m",2026
-4430870,00-0040184,12670,LambKe01,,18650,KeAndre Lambert-Smith,KeAndre,Lambert-Smith,WR,WR,LAC,84,ACT,Active,1,Auburn; Penn State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xhhzgylwh0ptvpaghnuu",2026
+4430870,00-0040184,12670,LambKe01,,18650,KeAndre Lambert-Smith,KeAndre,Lambert-Smith,WR,WR,LAC,84,RES,Reserve/IR,1,Auburn; Penn State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xhhzgylwh0ptvpaghnuu",2026
 4693337,00-0040185,12668,SiglMa00,,18634,Marques Sigle,Marques,Sigle,DB,SS,SF,36,ACT,Active,1,Kansas State; North Dakota State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cr3ojzklas5uqwc2vbfh",2026
 4700136,00-0040186,12666,MauiFr00,,18739,Francisco Mauigoa,Francisco,Mauigoa,LB,ILB,NYJ,51,ACT,Active,1,Miami; Washington State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/e9v5ipktxb3yepsq0abj",2026
 4683243,00-0040187,12473,EvanMi01,,18545,Mitchell Evans,Mitchell,Evans,TE,TE,CAR,84,ACT,Active,1,Notre Dame,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yruhsxdnyfaa7iswn1dp",2026
@@ -1957,7 +1961,7 @@ espn_id,gsis_id,sleeper_id,pfr_id,yahoo_id,rotowire_id,full_name,first_name,last
 4708049,00-0040215,12700,BartGa00,,18573,Gavin Bartholomew,Gavin,Bartholomew,TE,TE,MIN,86,ACT,Active,1,Pittsburgh,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vezjblfvo9gduiyonlum",2026
 4427984,00-0040216,12684,MedrKa00,,18740,Kain Medrano,Kain,Medrano,LB,ILB,WAS,56,ACT,Active,1,UCLA,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xdizkco6f8wg8jxsgy9j",2026
 ,00-0040217,,,,,Chase Lundt,Chase,Lundt,OL,T,BUF,77,DEV,Practice Squad,1,Connecticut,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hqknakwjpyhsqecrcl1c",2026
-4708486,00-0040218,12523,HornJi00,,18569,Jimmy Horn Jr.,Jimmy,Horn,WR,WR,CAR,15,ACT,Active,1,Colorado; University of South Florida,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gggcgfbghcft0xwxtrhk",2026
+4708486,00-0040218,12523,HornJi00,,18569,Jimmy Horn Jr.,Jimmy,Horn,WR,WR,CAR,15,CUT,Cut,1,Colorado; University of South Florida,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gggcgfbghcft0xwxtrhk",2026
 ,00-0040219,,,,,Hayden Conner,Hayden,Conner,OL,G,ARI,58,ACT,Active,1,Texas,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/sc7uno5kkkxgosvjz18t",2026
 4429018,00-0040221,12694,MickRJ00,,18627,R.J. Mickens,R.J.,Mickens,DB,FS,LAC,27,ACT,Active,1,Clemson,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ukzfqydyiezmemut0zoe",2026
 4693331,00-0040222,12688,MillCa00,,18808,Cam Miller,Camden,Miller,QB,QB,MIA,15,CUT,Cut,1,North Dakota State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cmxq5676dl7nfub07rao",2026
@@ -1991,7 +1995,7 @@ espn_id,gsis_id,sleeper_id,pfr_id,yahoo_id,rotowire_id,full_name,first_name,last
 4426513,00-0040251,12717,BridTr00,,18826,Trikweze Bridges,Trikweze,Bridges,DB,CB,CIN,24,DEV,Practice Squad,1,Florida; Oregon,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vmjfea3sm8cg0hrlibgj",2026
 4566100,00-0040252,12726,MinoKo00,,18825,Kobee Minor,Kobee,Minor,DB,CB,NE,19,CUT,Cut,1,Memphis; Indiana; Texas Tech,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yvfkscl6izjkimkmhi1j",2026
 4605792,00-0040255,13104,HuntAd00,,19041,Adin Huntington,Adin,Huntington,DL,DT,CLE,98,ACT,Active,1,Tulane; Louisiana-Monroe; Kent State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zqevui8ikmsi20blzgot",2026
-4877203,00-0040259,13101,LarvGa00,,18941,Gage Larvadain,Dillan,Larvadain,WR,WR,CLE,84,CUT,Cut,1,South Carolina; Miami (Ohio),"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/sivfugvzbbxrgkvxr5cb",2026
+4877203,00-0040259,13101,LarvGa00,,18941,Gage Larvadain,Dillan,Larvadain,WR,WR,BAL,84,DEV,Practice Squad,1,South Carolina; Miami (Ohio),"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/sivfugvzbbxrgkvxr5cb",2026
 4432374,00-0040260,12797,MarsAh00,,18943,Ahmani Marshall,Ahmani,Marshall,RB,RB,CAR,37,DEV,Practice Squad,1,Appalachian State; Wake Forest,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rmzxp0obmznym5hv5ndh",2026
 5085888,00-0040261,13165,MascEa00,,19045,Easton Mascarenas-Arnold,Easton,Mascarenas-Arnold,LB,OLB,CLE,42,ACT,Active,1,USC; Oregon State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/a8uufqbzvn1u8zhhujfa",2026
 4686027,00-0040263,,McMiDo00,,19047,Donovan McMillon,Donovan,McMillon,DB,FS,CLE,31,ACT,Active,1,Pittsburgh; Florida,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xxpttzs5lhbmc7phnxli",2026
@@ -2013,7 +2017,7 @@ espn_id,gsis_id,sleeper_id,pfr_id,yahoo_id,rotowire_id,full_name,first_name,last
 ,00-0040302,,,,,A.J. Henning,A.J.,Henning,WR,WR,MIA,88,CUT,Cut,1,Northwestern; Michigan,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ijwatff81qf3jmikcryt",2026
 ,00-0040304,,,,,Alex Huntley,Alex,Huntley,DL,DT,MIA,96,CUT,Cut,1,South Carolina,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lklrawhwiya702se4gox",2026
 ,00-0040307,,,,,Josh Priebe,Josh,Priebe,OL,G,MIA,68,CUT,Cut,1,Michigan; Northwestern,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/z8bgbhmsahpeyrozqgpi",2026
-,00-0040310,,,,,John Saunders Jr.,John,Saunders,DB,FS,NE,23,CUT,Cut,1,Mississippi; Miami (Ohio),"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ftf10e6sdtxy6jumhfds",2026
+,00-0040310,,,,,John Saunders Jr.,John,Saunders,DB,FS,NYJ,23,DEV,Practice Squad,1,Mississippi; Miami (Ohio),"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ftf10e6sdtxy6jumhfds",2026
 4426535,00-0040311,12860,WeasTh00,,18645,Theo Wease Jr.,Theo,Wease,WR,WR,LAC,82,DEV,Practice Squad,1,Missouri; Oklahoma,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/iykujtgwn2x1ymy7jdxw",2026
 ,00-0040313,,,,,Kam Arnold,Kam,Arnold,LB,MLB,KC,53,CUT,Cut,1,Boston College,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kkemyzx6bdkmpkbtkhek",2026
 4428343,00-0040314,,BarbRi00,,19181,Ricky Barber,Ricky,Barber,DL,DT,WAS,50,ACT,Active,1,UCF; Western Kentucky,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/updqursgjxdp8zsjelp2",2026
@@ -2062,7 +2066,7 @@ espn_id,gsis_id,sleeper_id,pfr_id,yahoo_id,rotowire_id,full_name,first_name,last
 ,00-0040394,,,,,Anthony Tyus III,Anthony,Tyus,RB,RB,CAR,34,DEV,Practice Squad,1,Ohio,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ycph0v6jfxwkcycuztk0",2026
 ,00-0040395,,,,,Jared Bartlett,Jared,Bartlett,LB,ILB,JAX,45,RES,Reserve/IR,1,Cincinnati; West Virginia,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xvtfeuh8yeeunr7duz6f",2026
 4426921,00-0040396,,ClarDe03,,19074,Dean Clark,William,Clark,DB,SS,NYJ,35,CUT,Cut,1,Fresno State; Kent State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/p5lpl4l1tltyogrszszq",2026
-4429411,00-0040397,,ClarJo00,,19075,Jordan Clark,Jordan,Clark,DB,CB,NYJ,33,DEV,Practice Squad,1,Notre Dame; Arizona State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qiesv40i10bhxmfuf1md",2026
+4429411,00-0040397,,ClarJo00,,19075,Jordan Clark,Jordan,Clark,DB,CB,NYJ,33,ACT,Active,1,Notre Dame; Arizona State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qiesv40i10bhxmfuf1md",2026
 4429435,00-0040398,12538,CookBr03,,18482,Brady Cook,Brady,Cook,QB,QB,MIA,15,ACT,Active,1,Missouri,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/sk8u7zzg7e3t4vu7xesg",2026
 4431536,00-0040400,12515,,,18444,Donovan Edwards,Donovan,Edwards,RB,RB,MIA,36,CUT,Cut,1,Michigan,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nr08xtjdchspkv4kkczm",2026
 ,00-0040401,,,,,Gus Hartwig,Gus,Hartwig,OL,C,DET,60,CUT,Cut,1,Purdue,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/e9anjdcbjlqqxyovquif",2026
@@ -2094,7 +2098,7 @@ espn_id,gsis_id,sleeper_id,pfr_id,yahoo_id,rotowire_id,full_name,first_name,last
 4565172,00-0040445,12772,,,18860,Courtney Jackson,Courtney,Jackson,WR,WR,TEN,39,CUT,Cut,1,Arkansas State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ztcixuqc2mihticrwnvc",2026
 ,00-0040446,,,,,Joseph Michalski,Joseph,Michalski,OL,C,NE,60,CUT,Cut,1,Oklahoma State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yr70dbnp5tp5dzbdvnhz",2026
 4875336,00-0040449,12781,ReidKa00,,18733,Karene Reid,Karene,Reid,LB,ILB,DEN,47,ACT,Active,1,Utah,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gx65fgbnmrzc51w1hfav",2026
-,00-0040451,,,,,Xavier Truss,Xavier,Truss,OL,T,NO,74,CUT,Cut,1,Georgia,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fsk6ca96kv4go2hcihxi",2026
+,00-0040451,,,,,Xavier Truss,Xavier,Truss,OL,T,CLE,74,DEV,Practice Squad,1,Georgia,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fsk6ca96kv4go2hcihxi",2026
 ,00-0040452,,,,,Johnny Walker Jr.,Johnny,Walker,LB,OLB,DEN,59,DEV,Practice Squad,1,Missouri,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/j561gxyuezqwljey7wpn",2026
 ,00-0040454,,,,,Kristian Williams,Kristian,Williams,DL,DT,DEN,75,CUT,Cut,1,Missouri,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/do89t8vuxwz1grgsouet",2026
 ,00-0040457,,,,,Jermaine Terry,Jermaine,Terry,TE,TE,CLE,85,CUT,Cut,1,,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ftxn0lo1wuw7cw4jbqmr",2026
@@ -2157,7 +2161,7 @@ espn_id,gsis_id,sleeper_id,pfr_id,yahoo_id,rotowire_id,full_name,first_name,last
 ,00-0040564,,,,,Jack Conley,John,Conley,OL,G,NE,67,CUT,Cut,1,Boston College,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nkocajkdxqcb8nfolh79",2026
 ,00-0040565,,,,,Brandon Crossley,Brandon,Crossley,DB,CB,NE,39,CUT,Cut,1,SMU; Colorado State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fg2xxnydii7ydbqmypzz",2026
 4596545,00-0040566,12984,DippCJ00,,18474,CJ Dippre,C.J.,Dippre,TE,TE,TB,82,DEV,Practice Squad,1,Alabama; Maryland,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/azvsbbacjbgiyr3hmgdi",2026
-,00-0040567,,,,,Brock Lampe,Brock,Lampe,RB,FB,BUF,46,DEV,Practice Squad,1,Northern Illinois,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qjprz2xsfvwi0zqrpyh1",2026
+,00-0040567,,,,,Brock Lampe,Brock,Lampe,RB,FB,BUF,45,DEV,Practice Squad,1,Northern Illinois,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qjprz2xsfvwi0zqrpyh1",2026
 4698253,00-0040568,12969,LariLa00,,18886,Lan Larison,Lan,Larison,RB,RB,NE,34,DEV,Practice Squad,1,UC Davis,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/dfvjypx4regh68bhrrlt",2026
 ,00-0040570,,,,,Jeremiah Webb,Jeremiah,Webb,WR,WR,NE,29,RES,Reserve/IR,1,South Alabama; South Dakota,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/dfay1nwxlijuhxbqcids",2026
 ,00-0040572,,,,,Jahvaree Ritzie,Jahvaree,Ritzie,DL,DE,MIN,96,DEV,Practice Squad,1,North Carolina,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wc149d02t0sbougkceuk",2026
@@ -2307,7 +2311,7 @@ espn_id,gsis_id,sleeper_id,pfr_id,yahoo_id,rotowire_id,full_name,first_name,last
 4384852,00-0040785,13264,MeyeDo00,,19247,Dohnte Meyers,Dohnte,Meyers,WR,WR,CIN,81,ACT,Active,0,Delta State University; Presbyterian College,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xkxpqhtebubkbv1irlkc",2026
 ,00-0040786,,,,,Jacob Roberts,Jacob,Roberts,LB,ILB,MIN,48,RES,Reserve/IR,0,,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/r2xg8flrjhh47j9jawx6",2026
 ,00-0040787,,,,,Devin Veresuk,Devin,Veresuk,LB,MLB,IND,48,CUT,Cut,0,,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vg6jlrvtdbpehqhey7d0",2026
-,00-0040790,,,,,Rob Carter Jr.,Robert,Carter,DB,CB,IND,39,DEV,Practice Squad,0,Robert Morris,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kgjxvzpxjyg3qsl1oedq",2026
+,00-0040790,,,,,Rob Carter Jr.,Robert,Carter,DB,CB,IND,39,CUT,Cut,0,Robert Morris,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kgjxvzpxjyg3qsl1oedq",2026
 ,00-0040792,,,,,Layne Pryor,Layne,Pryor,TE,TE,HOU,49,CUT,Cut,1,,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/w5iwcg7kfl3qunbng23t",2026
 ,00-0040793,,,,,Paschal Ekeji,Paschal,Ekeji,LB,OLB,NYJ,54,DEV,Practice Squad,1,,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tpq98s8c2d42cyctwnsp",2026
 ,00-0040808,,,,,Jaheim Thomas,Jaheim,Thomas,LB,OLB,MIA,30,CUT,Cut,1,,,2026
@@ -2357,7 +2361,7 @@ espn_id,gsis_id,sleeper_id,pfr_id,yahoo_id,rotowire_id,full_name,first_name,last
 4567747,00-0040906,13404,NussGa00,,19283,Garrett Nussmeier,Garrett,Nussmeier,QB,QB,KC,19,ACT,Active,0,LSU,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uyidfkzfhuqaks3pmdeo",2026
 4432661,00-0040907,13584,BennRa00,,19494,Rayshaun Benny,Rayshaun,Benny,DL,DE,BAL,99,DEV,Practice Squad,0,Michigan,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ewfiiqrz7qysxydw5zwn",2026
 5165139,00-0040908,13562,JameKe01,,19632,Keyshawn James-Newby,Keyshawn,James-Newby,LB,OLB,PHI,50,DEV,Practice Squad,0,New Mexico; Idaho; Montana College of Technology,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/dhu2y8agagcv0nixplkj",2026
-,00-0040909,,,,,Evan Beerntsen,Evan,Beerntsen,OL,G,SEA,60,DEV,Practice Squad,0,,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gwesa6kw92moff0mxp3i",2026
+,00-0040909,,,,,Evan Beerntsen,Evan,Beerntsen,OL,G,SEA,60,DEV,Practice Squad,0,Northwestern; South Dakota State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gwesa6kw92moff0mxp3i",2026
 2094390,00-0040910,,DansMi00,,19902,Michael Dansby,Michael,Dansby,DB,CB,SEA,37,DEV,Practice Squad,0,Arizona; San Jose State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/oxlhvcgepqjwzulh7yvz",2026
 4814930,00-0040912,13776,,,19333,Hank Beatty,Hank,Beatty,WR,WR,TEN,13,CUT,Cut,0,,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ainu7jvyjyjnsa8tdahf",2026
 ,00-0040914,,,,,Bishop Fitzgerald,Bishop,Fitzgerald,DB,FS,PIT,38,DEV,Practice Squad,0,USC; N.C. State; Coffeyville CC,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zwvgypmxdepwclfbylft",2026
@@ -2431,7 +2435,7 @@ espn_id,gsis_id,sleeper_id,pfr_id,yahoo_id,rotowire_id,full_name,first_name,last
 ,00-0040989,,,,,Octavian Smith,Octavian,Smith,WR,WR,BAL,87,CUT,Cut,0,,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qtsrzczmff6p97bc2rzo",2026
 ,00-0040991,,,,,Elijah Tau-Tolliver,Elijah,Tau-Tolliver,RB,RB,BAL,34,CUT,Cut,0,,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lupgcteiumxkemycok75",2026
 ,00-0040992,,,,,Silas Walters,Silas,Walters,DB,FS,TB,33,DEV,Practice Squad,0,Miami (Ohio),"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/z1jpdueha9gojh6czrzo",2026
-,00-0040993,,,,,Ladarius Webb Jr.,Lardarius,Webb,DB,CB,BAL,34,DEV,Practice Squad,0,,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/txaaincujcsnquwtzeyc",2026
+,00-0040993,,,,,Ladarius Webb Jr.,Lardarius,Webb,DB,CB,BAL,34,DEV,Practice Squad,0,Wake Forest; South Alabama; Oklahoma State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/txaaincujcsnquwtzeyc",2026
 ,00-0040995,,,,,Dion Wilson,Dion,Wilson,DL,DT,BAL,58,CUT,Cut,0,,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nukeqk7zm0ajhdsfruvt",2026
 ,00-0040996,,,,,Jacob Clark,Jacob,Clark,QB,QB,LV,16,CUT,Cut,0,,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zw2yzeb5jhowboogfpki",2026
 ,00-0040997,,,,,Tyler Duzansky,Tyler,Duzansky,LS,LS,LV,46,CUT,Cut,0,,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/e7iggmlhoyuge8vriory",2026
@@ -2599,13 +2603,13 @@ espn_id,gsis_id,sleeper_id,pfr_id,yahoo_id,rotowire_id,full_name,first_name,last
 ,00-0041169,,,,,Jaren Kump,Jaren,Kump,OL,C,CHI,64,CUT,Cut,0,,,2026
 ,00-0041170,,,,,Hayden Large,Hayden,Large,TE,TE,CHI,43,RES,Reserve/IR,0,Iowa,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gbhffvvzh3nnzpno5hhw",2026
 ,00-0041171,,,,,Jayden Loving,Jayden,Loving,DL,DT,CHI,91,ACT,Active,0,Wake Forest,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cocsd3g9llyyzbt1qznb",2026
-,00-0041172,,,,,Miller Moss,Miller,Moss,QB,QB,CHI,16,ACT,Active,0,Louisville,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/p86kdskm2q45zetkrx03",2026
+,00-0041172,,,,,Miller Moss,Miller,Moss,QB,QB,CHI,16,DEV,Practice Squad,0,Louisville,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/p86kdskm2q45zetkrx03",2026
 ,00-0041173,,,,,Mason Murphy,Mason,Murphy,OL,T,NO,74,ACT,Active,0,Auburn; USC,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kqptv02lvnfxzk6iy7y7",2026
 ,00-0041175,,,,,Skyler Thomas,Skyler,Thomas,DB,SS,CHI,38,ACT,Active,0,Oregon State,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ojgmea3dm5nvck8lasx6",2026
 ,00-0041176,,,,,Jaden Bradley,Jaden,Bradley,WR,WR,WAS,86,DEV,Practice Squad,0,UNLV; Charlotte; Pittsburgh,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kr2pi6xguzj2ejtpvsnm",2026
 ,00-0041177,,,,,Fred Davis,Fred,Davis,DB,CB,WAS,38,DEV,Practice Squad,0,Northwestern; Jacksonville State; UCF; Clemson,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cggb4uh3hy1gzmyuqk4v",2026
 5151317,00-0041178,13418,HenrRo00,,18451,Robert Henry Jr.,Robert,Henry,RB,RB,WAS,30,DEV,Practice Squad,0,Texas-San Antonio,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/aehybugrdkpwoegwc10v",2026
-4431334,00-0041179,13674,HiltCh00,,19437,Chris Hilton Jr.,Christopher,Hilton,WR,WR,GB,37,DEV,Practice Squad,0,LSU,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/x4c5gmotlioz2xynmtkw",2026
+4431334,00-0041179,13674,HiltCh00,,19437,Chris Hilton Jr.,Christopher,Hilton,WR,WR,GB,37,CUT,Cut,0,LSU,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/x4c5gmotlioz2xynmtkw",2026
 ,00-0041180,,,,,Quentin Moore,Quentin,Moore,TE,TE,WAS,40,CUT,Cut,0,,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uavxcxg6tgw0pchu2osh",2026
 ,00-0041181,,,,,Malik Spencer,Malik,Spencer,DB,FS,WAS,36,RES,Reserve/IR,0,,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wiopxrhywlhy4lsjvkod",2026
 5081335,00-0041182,,StevDr00,,18511,Drew Stevens,Drew,Stevens,K,K,WAS,19,ACT,Active,0,Iowa,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/dzlynw7seoaqck1r2il3",2026
@@ -2794,9 +2798,9 @@ espn_id,gsis_id,sleeper_id,pfr_id,yahoo_id,rotowire_id,full_name,first_name,last
 ,00-0041406,,,,,Larry Worth,Larry,Worth,DB,SS,SF,47,CUT,Cut,0,,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/dh5rnvlxzwcsxfua2ekp",2026
 ,00-0041408,,,,,Wayne Matthews II,Wayne,Matthews,LB,MLB,CHI,35,DEV,Practice Squad,0,Michigan State; Old Dominion,,2026
 ,00-0041409,,,,,Daveren Rayner,Daveren,Rayner,LB,ILB,ATL,42,CUT,Cut,0,,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mxrcfsvj88cfuc1xaclr",2026
-,00-0041410,,,,,Jaden Keller,Jaden,Keller,LB,ILB,NYJ,48,DEV,Practice Squad,0,Virginia Tech,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uxfz8xexycjmemktijh6",2026
+,00-0041410,,,,,Jaden Keller,Jaden,Keller,LB,ILB,NYJ,48,CUT,Cut,0,Virginia Tech,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uxfz8xexycjmemktijh6",2026
 ,00-0041411,,,,,Michael Coats Jr.,Michael,Coats,DB,CB,CLE,39,DEV,Practice Squad,0,West Virginia; Nevada; East Central JC,,2026
-,00-0041412,,,,,Xavier Holmes,Xavier,Holmes,LB,OLB,NE,58,DEV,Practice Squad,0,,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/u005l47kqbf4w8futftr",2026
+,00-0041412,,,,,Xavier Holmes,Xavier,Holmes,LB,OLB,NE,58,DEV,Practice Squad,0,James Madison; Maine,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/u005l47kqbf4w8futftr",2026
 ,00-0041413,,,,,Nick Andersen,Nick,Andersen,DB,FS,LA,45,DEV,Practice Squad,0,Wake Forest,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fptjz8akstlgldroj4sm",2026
 ,00-0041414,,,,,Matthew Caldwell,Matthew,Caldwell,QB,QB,LA,16,RES,Reserve/IR,0,Texas; Troy; Gardner-Webb; Jacksonville State,,2026
 5082269,00-0041415,13315,ConnDe00,,19306,Dean Connors,Dean,Connors,RB,RB,LA,33,DEV,Practice Squad,0,Houston; Rice; Riverside Community College,"https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fgsgqkdsnliwujjtvvw3",2026
