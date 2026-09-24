@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
-"""Build data/routes.csv for the 925 DFS tool.
+"""Estimated routes, kept separate from targets.
 
-Estimated routes = team dropbacks * offensive snap %.
-route_pct is that snap % (0–1). Swap this file later if you get true charted routes.
+routes      = team dropbacks * offensive snap %
+route_pct   = offensive snap %
+targets     = actual targets from weekly player stats (reference only)
 """
 from __future__ import annotations
 
@@ -15,8 +16,8 @@ from urllib.request import Request, urlopen
 SEASON = 2026
 PBP_URL = f"https://github.com/nflverse/nflverse-data/releases/download/pbp/play_by_play_{SEASON}.csv"
 SNAPS_URL = f"https://github.com/nflverse/nflverse-data/releases/download/snap_counts/snap_counts_{SEASON}.csv"
+STATS_URL = f"https://github.com/nflverse/nflverse-data/releases/download/player_stats/player_stats_{SEASON}.csv"
 OUT = Path("data/routes.csv")
-
 UA = {"User-Agent": "925Sports-NFL-Player-Log/1.0"}
 
 
@@ -36,25 +37,40 @@ def num(v, default=0.0):
         return default
 
 
-def main() -> None:
-    print("Downloading PBP…")
-    pbp = get_csv(PBP_URL)
-    print("Downloading snaps…")
-    snaps = get_csv(SNAPS_URL)
+def norm(name: str) -> str:
+    s = (name or "").lower().strip()
+    for suf in (" jr.", " jr", " sr.", " sr", " iii", " ii", " iv"):
+        if s.endswith(suf):
+            s = s[: -len(suf)].strip()
+    return s.replace(".", "")
 
-    dropbacks = defaultdict(int)  # (week, team) -> dropbacks
+
+def main() -> None:
+    pbp = get_csv(PBP_URL)
+    snaps = get_csv(SNAPS_URL)
+    try:
+        stats = get_csv(STATS_URL)
+    except Exception:
+        stats = []
+
+    dropbacks = defaultdict(int)
     for row in pbp:
         if str(row.get("season_type") or "REG").upper() != "REG":
             continue
-        if num(row.get("pass_attempt")) < 1 and str(row.get("play_type") or "") != "pass":
-            # sack / scramble still a dropback when qb_dropback is 1
-            if num(row.get("qb_dropback")) < 1:
-                continue
+        if num(row.get("qb_dropback")) < 1 and num(row.get("pass_attempt")) < 1:
+            continue
         week = int(num(row.get("week")))
         team = str(row.get("posteam") or "").upper()
-        if week < 1 or not team:
+        if week >= 1 and team:
+            dropbacks[(week, team)] += 1
+
+    targets = {}
+    for row in stats:
+        if str(row.get("season_type") or "REG").upper() not in {"REG", ""}:
             continue
-        dropbacks[(week, team)] += 1
+        name = row.get("player_display_name") or row.get("player_name") or ""
+        week = int(num(row.get("week")))
+        targets[(norm(name), week)] = int(num(row.get("targets")))
 
     out_rows = []
     for row in snaps:
@@ -71,25 +87,25 @@ def main() -> None:
         off_pct = num(row.get("offense_pct"))
         if off_pct > 1.5:
             off_pct = off_pct / 100.0
-        routes = round(dropbacks.get((week, team), 0) * off_pct, 1)
-        out_rows.append(
-            {
-                "season": int(num(row.get("season"), SEASON)),
-                "week": week,
-                "player": name,
-                "team": team,
-                "position": pos,
-                "routes": routes,
-                "route_pct": round(off_pct, 4),
-            }
-        )
+        db = dropbacks.get((week, team), 0)
+        routes = round(db * off_pct, 1)
+        tgt = targets.get((norm(name), week), 0)
+        out_rows.append({
+            "season": int(num(row.get("season"), SEASON)),
+            "week": week,
+            "player": name,
+            "team": team,
+            "position": pos,
+            "team_dropbacks": db,
+            "routes": routes,
+            "route_pct": round(off_pct, 4),
+            "targets": tgt,
+        })
 
     OUT.parent.mkdir(parents=True, exist_ok=True)
+    fields = ["season", "week", "player", "team", "position", "team_dropbacks", "routes", "route_pct", "targets"]
     with OUT.open("w", newline="", encoding="utf-8") as f:
-        w = csv.DictWriter(
-            f,
-            fieldnames=["season", "week", "player", "team", "position", "routes", "route_pct"],
-        )
+        w = csv.DictWriter(f, fieldnames=fields)
         w.writeheader()
         w.writerows(sorted(out_rows, key=lambda r: (r["week"], r["team"], r["player"])))
     print(f"Wrote {len(out_rows)} rows to {OUT}")
