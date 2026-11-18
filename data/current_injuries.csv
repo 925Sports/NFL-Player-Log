@@ -1,10 +1,10 @@
 player,team,status,comment,date
+Jordan Burch,Arizona Cardinals,Injured Reserve,The Cardinals placed Burch (knee) on injured reserve Tuesday.,2026-11-18T01:52Z
+Andrew Wingard,Arizona Cardinals,Injured Reserve,Wingard (wrist) was placed on injured reserve by the Cardinals on Tuesday.,2026-11-18T01:19Z
 James Conner,Arizona Cardinals,Injured Reserve,"Updating a previous report, Conner (foot) no longer appears to be a candidate to return from injured reserve to play Week 11 versus the Chiefs, according to Tyler Drake of ArizonaSports.com.",2026-11-17T16:52Z
 Jayden Williams,Arizona Cardinals,Questionable,questionable,2026-11-17T12:19Z
 Hjalte Froholdt,Arizona Cardinals,Questionable,questionable,2026-11-17T12:19Z
 Jon Gaines II,Arizona Cardinals,Questionable,questionable,2026-11-17T12:19Z
-Jordan Burch,Arizona Cardinals,Out,"Head coach Mike LaFleur said Monday that Burch (knee) will be sidelined for the rest of the 2026 season, Dani Sureck of the Cardinals' official site reports.",2026-11-17T00:45Z
-Andrew Wingard,Arizona Cardinals,Out,"Head coach Mike LaFleur said Monday that Wingard (wrist/hand) will be ""out for an extended period of time,"" Dani Sureck of the Cardinals' official site reports.",2026-11-17T00:06Z
 Gardner Minshew II,Arizona Cardinals,Injured Reserve,"Minshew suffered a torn UCL in his right throwing elbow last Sunday at Seattle and is slated to undergo season-ending surgery, Adam Schefter of ESPN reports.",2026-11-15T12:49Z
 Zachary Carter,Arizona Cardinals,Injured Reserve,"Carter (knee) has been ruled out ahead of Sunday's game against the Rams, Zach Gershman of the Cardinals' official site reports.",2026-11-14T02:22Z
 Divine Deablo,Atlanta Falcons,Out,out,2026-11-17T12:21Z
@@ -14,6 +14,7 @@ Nnamdi Madubuike,Baltimore Ravens,Questionable,Madubuike (hamstring) has been ru
 Olaivavega Ioane,Baltimore Ravens,Questionable,Ioane (shoulder) is questionable to return to Monday night's contest against the Chargers.,2026-11-17T03:27Z
 Adam Randall,Baltimore Ravens,Injured Reserve,"Randall (neck/hamstring) wasn't activated from injured reserve and will remain out for Monday's game against the Chargers, Brian Wacker of The Baltimore Sun reports.",2026-11-16T23:22Z
 Lamar Jackson,Baltimore Ravens,Injured Reserve,"Jackson (thumb) is ""doing well"" and is expected to be out for ""6-to-10 weeks,"" per head coach Jesse Minter.",2026-11-13T14:48Z
+Ar'maj Reed-Adams,Buffalo Bills,Injured Reserve,The Bills placed Reed-Adams (back) on injured reserve Tuesday.,2026-11-18T01:37Z
 Dorian Williams,Buffalo Bills,Questionable,Williams (calf) is questionable to return to Sunday's game against the Jets.,2026-11-15T20:57Z
 Dee Alford,Buffalo Bills,Questionable,Alford (concussion) has been ruled out for the remainder of Sunday's game against the Jets.,2026-11-15T20:52Z
 Christian Benford,Buffalo Bills,Questionable,Benford (groin) has been ruled out for the rest of Sunday's game against the Jets.,2026-11-15T20:48Z
@@ -23,9 +24,9 @@ Bobby Okereke,Carolina Panthers,Questionable,questionable,2026-11-17T12:19Z
 Brady Christensen,Carolina Panthers,Injured Reserve,"Christensen (hamstring) has been downgraded to out for Sunday's game against the Saints, Joe Person of The Athletic reports.",2026-11-14T19:38Z
 Mike Jackson,Carolina Panthers,Injured Reserve,"Jackson (groin) has been downgraded from doubtful to out for Sunday's game against the Saints, Joe Person of The Athletic reports.",2026-11-14T19:23Z
 Jonathon Brooks,Carolina Panthers,Injured Reserve,"Brooks (groin) has been downgraded from doubtful to out for Sunday's game against the Saints, Joe Person of The Athletic reports.",2026-11-14T19:01Z
-Kyler Gordon,Chicago Bears,Questionable,questionable,2026-11-17T18:14Z
+Kyler Gordon,Chicago Bears,Questionable,"Bears coach Ben Johnson said Monday that Gordon has a shoulder injury and is day-to-day, Courtney Cronin of ESPN.com reports.",2026-11-18T00:10Z
+Kyle Monangai,Chicago Bears,Questionable,"Monangai (toe/thumb) was seen wearing full pads for the Bears' unofficial practice Tuesday, Adam Jahns of AllCHGO.com reports.",2026-11-17T21:01Z
 Malik Muhammad II,Chicago Bears,Questionable,questionable,2026-11-17T12:19Z
-Kyle Monangai,Chicago Bears,Questionable,"Monangai (thumb/toe) said Monday that he's ""on track"" to return to action Sunday against the Saints, Courtney Cronin of ESPN reports.",2026-11-16T23:58Z
 Tyrique Stevenson Sr.,Chicago Bears,Questionable,Stevenson exited Sunday night's game against the Bucs with a hand injury and is questionable to return.,2026-11-09T03:13Z
 Zavier Scott,Chicago Bears,Injured Reserve,The Bears placed Scott (wrist) on injured reserve Thursday.,2026-11-05T21:19Z
 Kentavius Street,Chicago Bears,Injured Reserve,"The Bears placed Street (knee) on injured reserve Wednesday, Adam Jahns of AllCHGO.com reports.",2026-11-05T04:55Z
@@ -36,7 +37,6 @@ Dalton Risner,Cincinnati Bengals,Questionable,Risner (knee) will not return to S
 Andrei Iosivas,Cincinnati Bengals,Injured Reserve,Iosivas (thumb) has been downgraded from doubtful to out for Sunday's game against the Steelers.,2026-11-14T20:08Z
 Brian Parker II,Cincinnati Bengals,Injured Reserve,The Bengals opened Parker's (undisclosed) 21-day practice window Thursday.,2026-11-12T22:57Z
 Jalen Davis,Cincinnati Bengals,Injured Reserve,The Bengals designated Davis (hamstring) to return from injured reserve Thursday.,2026-11-12T21:30Z
-Cashius Howell,Cincinnati Bengals,Injured Reserve,Howell (wrist) was placed on injured reserve by the Bengals on Tuesday.,2026-11-04T01:35Z
 Ronnie Hickman,Cleveland Browns,Out,out,2026-11-17T12:20Z
 Michael Burton,Cleveland Browns,Injured Reserve,"The Browns placed Burton (calf) on injured reserve Saturday, Chris Easterling of the Akron Beacon Journal reports.",2026-11-14T18:01Z
 Juanyeh Thomas,Dallas Cowboys,Questionable,questionable,2026-11-17T12:19Z
@@ -53,10 +53,10 @@ Kris Abrams-Draine,Denver Broncos,Questionable,questionable,2026-11-17T12:19Z
 Jaylen Waddle,Denver Broncos,Questionable,"Waddle (concussion) has been ruled out for the remainder of Sunday's game against the Panthers, Parker Gabriel of The Denver Post reports.",2026-11-08T19:52Z
 Riley Moss,Denver Broncos,Questionable,"Moss (concussion) has been ruled out for the remainder of Sunday's game against the Panthers, Parker Gabriel of The Denver Post reports.",2026-11-08T19:46Z
 Eyioma Uwazurike,Denver Broncos,Injured Reserve,"The Broncos placed Uwazurike (shoulder) on injured reserve Saturday, Aric DiLalla of the team's official site reports.",2026-11-08T03:38Z
-Cade Mays,Detroit Lions,Doubtful,doubtful,2026-11-17T15:10Z
+Cade Mays,Detroit Lions,Doubtful,"Mays (ankle) isn't expected to return to action Sunday versus Tampa Bay, Dave Birkett of the Detroit Free Press reports.",2026-11-18T01:32Z
+Kerby Joseph,Detroit Lions,Out,"Lions head coach Dan Campbell said Tuesday that he plans to get Joseph (knee) going in Week 11 against Tampa Bay, Dave Birkett of the Detroit Free Press reports.",2026-11-17T22:18Z
 D.J. Reed,Detroit Lions,Questionable,questionable,2026-11-17T12:19Z
 Aidan Hutchinson,Detroit Lions,Out,"Tests Monday have confirmed that Hutchinson sustained a torn ACL in his right knee during Sunday's 35-10 win over the Patriots in Munich, but he avoided any other significant damage, Tom Pelissero of Netflix reports.",2026-11-16T23:15Z
-Kerby Joseph,Detroit Lions,Out,Joseph (knee) did not travel to Munich with the Lions and is ruled out for Sunday's matchup against the Patriots.,2026-11-12T22:13Z
 Jack Campbell,Detroit Lions,Injured Reserve,The Lions moved Campbell (neck) to injured reserve Saturday.,2026-11-07T22:18Z
 Jimmy Rolder,Detroit Lions,Injured Reserve,Rolder (hamstring) was placed on injured reserve Tuesday.,2026-11-04T02:07Z
 Josh Jacobs,Green Bay Packers,Out,"Jacobs (finger) has a ""realistic chance"" of returning to action Nov. 25 against the Rams following the Packers' Week 11 bye, Ian Rapoport of NFL Network reports.",2026-11-17T15:35Z
@@ -67,21 +67,22 @@ Brandon Cisse,Green Bay Packers,Questionable,"Cisse (ribs) is ""fine"" after exi
 Skyy Moore,Green Bay Packers,Questionable,"Moore's ankle injury is not considered serious, Jeremy Fowler of ESPN.com reports.",2026-11-16T20:17Z
 Micah Parsons,Green Bay Packers,Out,"Head coach Matt LaFleur acknowledged that Parsons (knee/illness) could be ready to make his season debut following the Packers' Week 11 bye, but he still has ""a couple more hurdles"" to clear before being deemed ready to play, Ryan Wood of USA Today reports.",2026-11-16T19:31Z
 Bo Melton,Green Bay Packers,Questionable,"Melton (thigh) has been ruled out for the rest of Sunday's game against the Vikings, Rob Demovsky of ESPN.com reports.",2026-11-15T19:56Z
-Azeez Al-Shaair,Houston Texans,Injured Reserve,The Texans placed Al-Shaair (groin) on injured reserve Tuesday.,2026-11-17T16:40Z
-Danielle Hunter,Houston Texans,Questionable,questionable,2026-11-17T12:19Z
-Brevin Jordan,Houston Texans,Questionable,questionable,2026-11-17T12:19Z
+Jaylin Smith,Houston Texans,Injured Reserve,Smith (hamstring) was a full participant at practice Tuesday.,2026-11-18T01:24Z
+Brevin Jordan,Houston Texans,Questionable,Jordan (foot/illness) did not participate at practice Tuesday.,2026-11-18T01:20Z
+Danielle Hunter,Houston Texans,Questionable,Hunter (hamstring) did not participate at practice Tuesday.,2026-11-18T01:15Z
+Kamari Lassiter,Houston Texans,Questionable,Lassiter (wrist) did not participate at practice Tuesday.,2026-11-18T01:10Z
+Marvin Harrison Jr.,Houston Texans,Questionable,Harrison (hamstring) was a non-participant in Tuesday's practice.,2026-11-17T22:01Z
+Woody Marks,Houston Texans,Doubtful,Marks (concussion) didn't practice Tuesday.,2026-11-17T21:59Z
+Azeez Al-Shaair,Houston Texans,Injured Reserve,Al-Shaair (groin) did not participate in Monday's walkthrough practice.,2026-11-17T01:03Z
 Jake Hummel,Houston Texans,Questionable,questionable,2026-11-17T00:53Z
-Woody Marks,Houston Texans,Doubtful,Marks (concussion) missed Monday's walkthrough.,2026-11-17T00:49Z
-Marvin Harrison Jr.,Houston Texans,Questionable,Harrison (hamstring) was estimated as a non-participant on Monday's practice report.,2026-11-17T00:44Z
-Jaylin Smith,Houston Texans,Injured Reserve,The Texans designated Smith (hamstring) to return from injured reserve Wednesday.,2026-11-12T01:15Z
-Jaylon Carlies,Indianapolis Colts,Injured Reserve,ir,2026-11-17T19:40Z
+Will Mallory,Indianapolis Colts,Questionable,Mallory (hamstring) was estimated as a non-participant for Tuesday's practice walkthrough.,2026-11-18T01:04Z
+Jaylon Carlies,Indianapolis Colts,Injured Reserve,Indianapolis placed Carlies (neck) on injured reserve Tuesday.,2026-11-18T00:24Z
+Anthony Gould,Indianapolis Colts,Questionable,The Colts listed Gould (toe) as a limited participant in Tuesday's walk-through practice.,2026-11-17T21:34Z
 Luke Rhodes,Indianapolis Colts,Questionable,questionable,2026-11-17T12:19Z
 Jerry Tillery,Indianapolis Colts,Questionable,questionable,2026-11-17T12:19Z
 Jalen Travis,Indianapolis Colts,Doubtful,doubtful,2026-11-17T12:19Z
-Will Mallory,Indianapolis Colts,Questionable,Mallory (hamstring) did not participate in Monday's walkthrough practice.,2026-11-17T00:24Z
-Anthony Gould,Indianapolis Colts,Questionable,Gould (toe) was estimated as limited in Monday's walkthrough practice.,2026-11-17T00:20Z
+Sauce Gardner,Indianapolis Colts,Questionable,Gardner (calf) was listed as a DNP for Monday's walkthrough practice.,2026-11-17T00:28Z
 Charvarius Ward,Indianapolis Colts,Questionable,"Colts head coach Shane Steichen said that Ward (shin) is uncertain to be available for Thursday's game against the Texans after exiting Sunday's 24-22 win over the Dolphins, James Boyd of The Athletic reports.",2026-11-16T22:38Z
-Sauce Gardner,Indianapolis Colts,Questionable,"Colts head coach Shane Steichen reported Gardner suffered a left calf injury during Sunday's 24-22 win over the Dolphins and may not play Thursday versus Houston, James Boyd of The Athletic reports.",2026-11-16T22:31Z
 Bernhard Raimann,Indianapolis Colts,Questionable,"Raimann has entered the league's concussion protocol and has been ruled out for the rest of Sunday's game against the Dolphins, James Boyd of The Athletic reports.",2026-11-15T18:52Z
 Akeem Davis-Gaither,Indianapolis Colts,Injured Reserve,The Colts placed Davis-Gaither (knee) on injured reserve Saturday.,2026-11-14T17:34Z
 Mo Alie-Cox,Indianapolis Colts,Injured Reserve,The Colts placed Alie-Cox (groin) on injured reserve Saturday.,2026-11-14T17:24Z
@@ -108,17 +109,16 @@ Trey Pipkins III,Los Angeles Chargers,Injured Reserve,Pipkins (knee) won't be av
 Branson Taylor,Los Angeles Chargers,Injured Reserve,Taylor (ankle) was placed on injured reserve Monday.,2026-11-16T23:41Z
 Joe Cardona,Los Angeles Rams,Out,out,2026-11-17T12:22Z
 Steve Avila,Los Angeles Rams,Out,out,2026-11-17T12:22Z
-Dylan McMahon,Los Angeles Rams,Injured Reserve,"McMahon was placed on injured reserve Monday due to a partially torn patella tear that he suffered during the Rams' 34-6 win over the Cardinals on Sunday, Gary Klein of the Los Angeles Times reports.",2026-11-17T02:23Z
 Coleman Shelton,Los Angeles Rams,Doubtful,"Shelton (hamstring) is set to miss several weeks due to injury, Greg Beacham of the Associated Press reports.",2026-11-17T01:07Z
+Dylan McMahon,Los Angeles Rams,Injured Reserve,"The Rams placed McMahon (knee) on injured reserve Monday, Aaron Wilson of KPRC 2 Houston reports.",2026-11-17T00:48Z
 Davante Adams,Los Angeles Rams,Injured Reserve,"According to Ian Rapoport of NFL Network and ESPN,  Adams (hamstring) is believed to be targeting a return to action Nov. 25 against the Packers.",2026-11-15T16:06Z
+Zeek Biggers,Miami Dolphins,Injured Reserve,Biggers (knee) was placed on injured reserve by the Dolphins on Tuesday.,2026-11-18T00:26Z
+Jordan Phillips,Miami Dolphins,Injured Reserve,Phillips (biceps) was placed on injured reserve by the Dolphins on Tuesday.,2026-11-18T00:19Z
 Jared Wayne,Miami Dolphins,Questionable,questionable,2026-11-17T12:19Z
 Chris Bell,Miami Dolphins,Questionable,questionable,2026-11-17T12:19Z
 Aaron Brewer,Miami Dolphins,Questionable,questionable,2026-11-17T12:19Z
-Zeek Biggers,Miami Dolphins,Out,"Biggers sustained a lateral meniscus tear during Sunday's 24-22 loss to the Colts and will require season-ending surgery on his right knee, Ian Rapoport of NFL Network reports.",2026-11-17T03:14Z
-Jordan Phillips,Miami Dolphins,Questionable,"Phillips underwent further tests Monday on the arm he injured in Sunday's 24-22 loss to the Colts, Barry Jackson of the Miami Herald reports.",2026-11-16T19:56Z
 Malik Willis,Miami Dolphins,Injured Reserve,"Head coach Jeff Hafley said Monday that Willis (groin/core) has not undergone surgery and that the Dolphins are still determining if a procedure is needed, David Furones of the South Florida Sun Sentinel reports.",2026-11-16T17:27Z
 Andrew Meyer,Miami Dolphins,Questionable,Meyer (stinger) is questionable to return to Sunday's matchup against Indianapolis.,2026-11-15T21:06Z
-Darrell Baker Jr.,Miami Dolphins,Out,Baker (knee) was not activated from the reserve/PUP list ahead of Sunday's clash against Indianapolis.,2026-11-15T00:25Z
 Tyrion Ingram-Dawkins,Minnesota Vikings,Questionable,questionable,2026-11-17T12:19Z
 Jauan Jennings,Minnesota Vikings,Questionable,questionable,2026-11-17T12:19Z
 Blake Cashman,Minnesota Vikings,Questionable,questionable,2026-11-17T12:19Z
@@ -135,7 +135,6 @@ Drake Maye,New England Patriots,Doubtful,"Patriots head coach Mike Vrabel said M
 A.J. Brown,New England Patriots,Questionable,"Brown (hamstring) was spotted walking around with a limp in the locker room following Sunday's 35-10 loss to the Lions in Munich, Andrew Callahan of the Boston Herald reports.",2026-11-16T01:11Z
 Dre'Mont Jones,New England Patriots,Questionable,Jones (cramps) is questionable to return to Sunday's game against the Lions in Munich.,2026-11-15T17:32Z
 Robert Spillane,New England Patriots,Questionable,Spillane (illness) is questionable to return to Sunday's game against the Lions in Munich.,2026-11-15T17:18Z
-TreVeyon Henderson,New England Patriots,Injured Reserve,"Henderson (illness) was placed on injured reserve Saturday, Mike Reiss of ESPN.com reports.",2026-11-14T21:14Z
 Erik McCoy,New Orleans Saints,Doubtful,doubtful,2026-11-17T12:19Z
 CJ Donaldson,New Orleans Saints,Questionable,questionable,2026-11-17T12:19Z
 Taliese Fuaga,New Orleans Saints,Doubtful,doubtful,2026-11-17T12:19Z
@@ -173,14 +172,14 @@ George Holani,Seattle Seahawks,Questionable,"Holani is week-to-week after suffer
 Sam Darnold,Seattle Seahawks,Out,"Head coach Mike Macdonald said Monday that he's ""really optimistic"" Darnold (quadriceps/ribs) will be able to get a full week's worth of practice coming out of the Seahawks' Week 11 bye and start their next game Sunday, Nov. 29, against the 49ers, John Boyle of the team's official site reports.",2026-11-16T18:03Z
 Jarran Reed,Seattle Seahawks,Questionable,Reed is doubtful to return to Sunday's game against Las Vegas due to a toe injury.,2026-11-15T22:20Z
 Abraham Lucas,Seattle Seahawks,Questionable,Lucas (ankle) is doubtful to return to Sunday's game against the Raiders.,2026-11-15T22:03Z
-Baker Mayfield,Tampa Bay Buccaneers,Questionable,"The Buccaneers appear to be preparing for the possibility of Mayfield (foot) being sidelined for Sunday's game against the Lions, after the team signed Cooper Rush to the practice squad and signed Easton Stick to the 53-man roster Monday, Rick Stroud of the Tampa Bay Times reports.",2026-11-17T15:19Z
+Baker Mayfield,Tampa Bay Buccaneers,Questionable,"Mayfield (foot) ""seems to be trending"" toward sitting out Sunday's game against the Lions, with Jalon Daniels likely to draw the Week 11 start, Ian Rapoport of NFL Network reports.",2026-11-17T22:48Z
 Yaya Diaby,Tampa Bay Buccaneers,Doubtful,doubtful,2026-11-17T12:19Z
 Jalen McMillan,Tampa Bay Buccaneers,Injured Reserve,"Head coach Todd Bowles suggested Monday that McMillan (knee) isn't likely to immediately return to action following the Buccaneers' Week 10 bye, Rick Stroud of the Tampa Bay Times reports.",2026-11-09T19:19Z
 Antoine Winfield Jr.,Tampa Bay Buccaneers,Questionable,Winfield (ankle) has been ruled out for the rest of Sunday night's contest against the Bears.,2026-11-09T03:35Z
+Wan'Dale Robinson,Tennessee Titans,Injured Reserve,"The Titans placed Robinson (ankle) on injured reserve Tuesday, Jim Wyatt of the team's official site reports.",2026-11-17T21:26Z
 Anthony Hill Jr.,Tennessee Titans,Questionable,questionable,2026-11-17T12:19Z
 Cody Barton,Tennessee Titans,Questionable,questionable,2026-11-17T12:19Z
 Carnell Tate,Tennessee Titans,Questionable,"Titans head coach Robert Saleh said Monday that he's hopeful that Tate (shoulder) will return to action in Week 11 versus the Cowboys, Jim Wyatt of the team's official site reports.",2026-11-16T14:23Z
-Wan'Dale Robinson,Tennessee Titans,Questionable,Robinson is questionable to return to Sunday's game against the Jaguars due to an ankle injury.,2026-11-15T21:09Z
 Tony Adams,Tennessee Titans,Questionable,Adams has entered the league's concussion protocol and has been ruled out for the rest of Sunday's game against the Jaguars.,2026-11-15T20:56Z
 Tommy Townsend,Tennessee Titans,Injured Reserve,"The Titans placed Townsend (knee/Achilles) on IR on Saturday, Jim Wyatt of the Titans' official site reports.",2026-11-15T00:43Z
 Peter Skoronski,Tennessee Titans,Injured Reserve,"The Titans placed Skoronski (hamstring) on injured reserve Saturday, Jim Wyatt of the team's official site reports.",2026-11-14T21:52Z
