@@ -1,5 +1,5 @@
 player,team,status,comment,date
-Carson Beck,Arizona Cardinals,Questionable,"Beck (back) wasn't spotted during the portion of Thursday's practice open to the media, Darren Urban of the Cardinals' official site reports.",2026-11-26T18:20Z
+Carson Beck,Arizona Cardinals,Questionable,"Beck (back) was listed as a non-participant on Thursday's injury report, Darren Urban of the Cardinals' official site reports.",2026-11-26T20:11Z
 Jeremiyah Love,Arizona Cardinals,Injured Reserve,"Head coach Mike LaFleur said Wednesday that the Cardinals will evaluate Love (ankle) again Monday to hone in on a return date for the running back, Bo Brack of GoPHNX.com reports.",2026-11-25T19:50Z
 Jon Gaines II,Arizona Cardinals,Questionable,questionable,2026-11-24T12:39Z
 Cody Simon,Arizona Cardinals,Questionable,Simon (calf) is questionable to return to Sunday's game against the Chiefs.,2026-11-22T20:06Z
@@ -52,13 +52,14 @@ Austin Barber,Cleveland Browns,Questionable,questionable,2026-11-25T22:38Z
 Derek Barnett,Cleveland Browns,Questionable,questionable,2026-11-25T22:38Z
 Harold Fannin Jr.,Cleveland Browns,Questionable,"Fannin (groin) was listed as a limited participant in Wednesday's practice, Ryan McFadden of ESPN reports.",2026-11-25T22:30Z
 Denzel Boston,Cleveland Browns,Questionable,"Boston wasn't spotted at Wednesday's practice, Daniel Oyefusi of ESPN reports.",2026-11-25T18:16Z
+P.J. Locke,Dallas Cowboys,Out,inactive,2026-11-26T20:13Z
+Jonathan Mingo,Dallas Cowboys,Out,inactive,2026-11-26T20:13Z
+Jake Ferguson,Dallas Cowboys,Out,inactive,2026-11-26T20:13Z
+Jaishawn Barham,Dallas Cowboys,Out,inactive,2026-11-26T20:13Z
+Tyler Booker,Dallas Cowboys,Out,inactive,2026-11-26T20:13Z
+Jonathan Bullard,Dallas Cowboys,Out,inactive,2026-11-26T20:13Z
 Devin Moore,Dallas Cowboys,Injured Reserve,Moore (hip) is listed as questionable for Thursday's game against the Eagles.,2026-11-26T03:19Z
-P.J. Locke,Dallas Cowboys,Out,Locke (concussion) has been ruled out for Thursday's game against Philadelphia.,2026-11-26T00:40Z
-Jonathan Mingo,Dallas Cowboys,Out,Mingo (ankle) has been ruled out for Thursday's game against the Eagles.,2026-11-26T00:36Z
-Jalen Thompson,Dallas Cowboys,Questionable,The Cowboys activated Thompson (hamstring) from injured reserve Wednesday.,2026-11-25T22:49Z
-Jake Ferguson,Dallas Cowboys,Out,"The Cowboys ruled Ferguson (knee/ankle) out for Thursday's game against the Eagles, Patrik Walker of the team's official site reports.",2026-11-25T19:14Z
 DaRon Bland,Dallas Cowboys,Injured Reserve,"Bland (ankle) is expected to return this season, Calvin Watkins of  The Dallas Morning News reports.",2026-11-23T21:40Z
-Tyler Booker,Dallas Cowboys,Out,out,2026-11-23T15:26Z
 Sai'vion Jones,Denver Broncos,Out,"Jones (hamstring) has been ruled out for Friday's game against the Steelers, Aric DiLalla of the Broncos' official site reports.",2026-11-26T03:33Z
 Taylor Rapp,Denver Broncos,Out,"Rapp (quadriceps) has been ruled out for Friday's game against the Steelers, Zac Stevens of TheDNVR.com reports.",2026-11-26T03:27Z
 J.K. Dobbins,Denver Broncos,Suspension,"The Broncos placed Dobbins on the reserve/suspended list Wednesday, Zac Stevens of TheDNVR.com reports.",2026-11-25T22:13Z
@@ -162,11 +163,11 @@ A.J. Brown,New England Patriots,Doubtful,"Brown (hamstring) didn't take part in 
 Alijah Vera-Tucker,New England Patriots,Injured Reserve,The Patriots designated Vera-Tucker (hamstring) for return from injured reserve Monday.,2026-11-24T01:00Z
 Drake Maye,New England Patriots,Out,"For now, Maye -- who suffered a fractured right fibula during a Week 10 loss to the Lions -- remains on the Patriots' 53-man roster rather than injured reserve, with coach Mike Vrabel citing the ""balance"" the team is hoping to strike with regard to managing its remaining designated to return from IR slots, Mike Reiss of ESPN.com reports.",2026-11-23T20:26Z
 Dre'Mont Jones,New England Patriots,Questionable,Jones (cramps) is questionable to return to Sunday's game against the Lions in Munich.,2026-11-15T17:32Z
+Juwan Johnson,New Orleans Saints,Questionable,"Coach Kellen Moore said Thursday that Johnson (hamstring/wrist) is considered day-to-day ahead of Sunday's game against the Bengals, Katherine Terrell of ESPN reports.",2026-11-26T20:05Z
 Martin Emerson Jr.,New Orleans Saints,Questionable,"Emerson (concussion) was a full practice participant Wednesday, Jeff Nowak of WWL Radio reports.",2026-11-26T01:39Z
 Pete Werner,New Orleans Saints,Questionable,"Werner (hamstring) was a limited participant in Wednesday's practice, Jeff Nowak of WWL Radio reports.",2026-11-26T01:33Z
 Asim Richards,New Orleans Saints,Questionable,questionable,2026-11-25T22:04Z
 David Edwards,New Orleans Saints,Questionable,questionable,2026-11-25T22:04Z
-Juwan Johnson,New Orleans Saints,Questionable,"Johnson (hamstring) did not practice Wednesday due to a hamstring/wrist issue, Katherine Terrell of ESPN reports.",2026-11-25T21:32Z
 Erik McCoy,New Orleans Saints,Questionable,questionable,2026-11-24T12:39Z
 Taliese Fuaga,New Orleans Saints,Questionable,questionable,2026-11-24T12:39Z
 Dru Phillips,New York Giants,Questionable,"Phillips (illness) did not participate in Wednesday's practice, Dan Salomone of the Giants' official site reports.",2026-11-26T01:22Z
@@ -182,8 +183,12 @@ Isaiah Williams,New York Jets,Questionable,Williams (ribs) was listed as a limit
 Joseph Ossai,New York Jets,Questionable,questionable,2026-11-25T21:07Z
 Dylan Parham,New York Jets,Questionable,questionable,2026-11-25T21:07Z
 Omar Cooper Jr.,New York Jets,Questionable,Jets head coach Aaron Glenn said that Cooper (ankle/hip) won't practice Wednesday and is considered day-to-day.,2026-11-25T17:05Z
-Arnold Ebiketie,Philadelphia Eagles,Out,Ebiketie (oblique) has been ruled out for Thursday's game against the Cowboys.,2026-11-25T22:25Z
-Jonathan Jones,Philadelphia Eagles,Out,Jones (ankle) has been ruled out for Thursday's game against the Cowboys.,2026-11-25T22:23Z
+Cole Payton,Philadelphia Eagles,Out,inactive,2026-11-26T20:14Z
+Jonathan Jones,Philadelphia Eagles,Out,inactive,2026-11-26T20:14Z
+Grant Calcaterra,Philadelphia Eagles,Out,inactive,2026-11-26T20:14Z
+Ajani Cornelius,Philadelphia Eagles,Out,inactive,2026-11-26T20:14Z
+Arnold Ebiketie,Philadelphia Eagles,Out,inactive,2026-11-26T20:14Z
+AJ Epenesa,Philadelphia Eagles,Out,inactive,2026-11-26T20:14Z
 Zack Baun,Philadelphia Eagles,Injured Reserve,Baun (back) was placed on the Eagles' injured reserve Saturday.,2026-11-22T00:14Z
 Dontayvion Wicks,Philadelphia Eagles,Injured Reserve,The Eagles placed Wicks (ankle/foot) on injured reserve Saturday.,2026-11-21T21:09Z
 Alex Highsmith,Pittsburgh Steelers,Out,out,2026-11-26T19:38Z
