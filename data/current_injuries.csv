@@ -36,6 +36,7 @@ Jonathon Brooks,Carolina Panthers,Injured Reserve,"Head coach Dave Canales sugge
 Brady Christensen,Carolina Panthers,Injured Reserve,"Christensen (hamstring) reverted to season-ending injured reserve after his 21-day practice window closed Tuesday, Mike Kaye of ESPN.com reports.",2026-11-25T02:01Z
 Bobby Okereke,Carolina Panthers,Questionable,questionable,2026-11-24T12:39Z
 Jaycee Horn,Carolina Panthers,Injured Reserve,"Horn is progressing well in his recovery from a quadriceps injury, Joe Person of The Athletic reports.",2026-11-23T21:53Z
+Caleb Williams,Chicago Bears,Questionable,"Williams is having an X-ray performed after Thursday's 39-35 win at Detroit, asdf reports.",2026-11-26T21:54Z
 Colston Loveland,Chicago Bears,Questionable,Loveland (knee) has been ruled out from returning to Thursday's game in Detroit.,2026-11-26T18:45Z
 Case Keenum,Chicago Bears,Out,Keenum (coach's decision) is inactive and tabbed as the Bears' emergency third quarterback Thursday in Detroit.,2026-11-26T16:53Z
 Isaac Yiadom,Chicago Bears,Out,inactive,2026-11-26T16:36Z
@@ -85,13 +86,11 @@ Jager Burton,Green Bay Packers,Out,inactive,2026-11-25T23:56Z
 Mekhi Becton,Green Bay Packers,Out,inactive,2026-11-25T23:56Z
 Josh Jacobs,Green Bay Packers,Out,"Jacobs (finger) is listed as inactive Wednesday at the Rams, Tom Pelissero of Netflix reports.",2026-11-25T23:53Z
 Luke Musgrave,Green Bay Packers,Out,"Packers head coach Matt LaFleur said Saturday that he doesn't anticipate Musgrove (neck) returning from the PUP list this season, according to NFL reporter Jason B. Hirschhorn.",2026-11-22T14:06Z
+Dalton Schultz,Houston Texans,Questionable,questionable,2026-11-26T21:44Z
 Sheldon Rankins,Houston Texans,Questionable,Rankins (ankle) did not participate in Wednesday's practice.,2026-11-26T02:01Z
 Danielle Hunter,Houston Texans,Questionable,Hunter (hamstring) did not participate in Wednesday's practice.,2026-11-26T01:55Z
 Kayshon Boutte,Houston Texans,Questionable,Boutte (hip) didn't participate in Wednesday's practice.,2026-11-25T23:50Z
-Marvin Harrison Jr.,Houston Texans,Questionable,Harrison (hamstring) was listed as a limited participant in Wednesday's practice.,2026-11-25T23:34Z
 Woody Marks,Houston Texans,Questionable,Marks (concussion) was listed as a full participant in Wednesday's practice.,2026-11-25T23:16Z
-Logan Hall,Houston Texans,Doubtful,doubtful,2026-11-25T23:08Z
-Jake Hummel,Houston Texans,Questionable,questionable,2026-11-25T23:08Z
 Wyatt Teller,Houston Texans,Questionable,questionable,2026-11-24T12:39Z
 Brevin Jordan,Houston Texans,Questionable,questionable,2026-11-24T12:39Z
 Keylan Rutledge,Houston Texans,Questionable,Rutledge (stinger) was deemed questionable to return near the end of Thursday's 26-3 win against Indianapolis and didn't end up re-entering the game.,2026-11-20T04:23Z
@@ -187,6 +186,7 @@ Harrison Phillips,New York Jets,Questionable,Phillips (ankle) was listed as a DN
 T'Vondre Sweat,New York Jets,Injured Reserve,"The Jets designated Sweat (knee) for return from injured reserve Wednesday, Eric Allen of the Jets' official site reports.",2026-11-25T22:18Z
 Joseph Ossai,New York Jets,Questionable,questionable,2026-11-25T21:07Z
 Dylan Parham,New York Jets,Questionable,questionable,2026-11-25T21:07Z
+Cooper DeJean,Philadelphia Eagles,Questionable,questionable,2026-11-26T22:05Z
 Cole Payton,Philadelphia Eagles,Out,Payton (coach's decision) is inactive for Thursday's game at Dallas but is available as the Eagles' emergency third quarterback.,2026-11-26T20:20Z
 Grant Calcaterra,Philadelphia Eagles,Out,inactive,2026-11-26T20:14Z
 Ajani Cornelius,Philadelphia Eagles,Out,inactive,2026-11-26T20:14Z
@@ -194,11 +194,11 @@ AJ Epenesa,Philadelphia Eagles,Out,inactive,2026-11-26T20:14Z
 Arnold Ebiketie,Philadelphia Eagles,Out,Ebiketie (oblique) has been ruled out for Thursday's game against the Cowboys.,2026-11-25T22:25Z
 Jonathan Jones,Philadelphia Eagles,Out,Jones (ankle) has been ruled out for Thursday's game against the Cowboys.,2026-11-25T22:23Z
 Zack Baun,Philadelphia Eagles,Injured Reserve,Baun (back) was placed on the Eagles' injured reserve Saturday.,2026-11-22T00:14Z
-Dontayvion Wicks,Philadelphia Eagles,Injured Reserve,The Eagles placed Wicks (ankle/foot) on injured reserve Saturday.,2026-11-21T21:09Z
 Alex Highsmith,Pittsburgh Steelers,Out,out,2026-11-26T19:38Z
 Ben Skowronek,Pittsburgh Steelers,Injured Reserve,ir,2026-11-26T19:20Z
 Cole Holcomb,Pittsburgh Steelers,Questionable,questionable,2026-11-25T20:52Z
 Gennings Dunker,Pittsburgh Steelers,Injured Reserve,Dunker (knee) logged a full practice Tuesday.,2026-11-25T02:00Z
+Brock Purdy,San Francisco 49ers,Questionable,"Purdy (ankle) was listed as a non-participant on Thursday's injury report, Eric Branch of the San Francisco Chronicle reports.",2026-11-26T22:01Z
 Austen Pleasants,San Francisco 49ers,Injured Reserve,"The 49ers designated Pleasants (knee) to return from injured reserve Wednesday, Matt Maiocco of NBC Sports Bay Area reports.",2026-11-26T03:11Z
 Colton McKivitz,San Francisco 49ers,Injured Reserve,McKivitz (ankle) was placed on the 49ers' injured reserve list Wednesday.,2026-11-26T03:03Z
 Jordan Watkins,San Francisco 49ers,Questionable,Watkins (groin) did not participate in Wednesday's practice.,2026-11-26T02:57Z
@@ -210,7 +210,6 @@ Siran Neal,San Francisco 49ers,Questionable,questionable,2026-11-26T02:31Z
 Sam Okuayinonu,San Francisco 49ers,Injured Reserve,"Okuayinonu (foot) was spotted walking without a limp in the 49ers' locker room Wednesday, David Lombardi of SFStandard.com reports.",2026-11-25T23:01Z
 De'Zhaun Stribling,San Francisco 49ers,Injured Reserve,"San Francisco head coach Kyle Shanahan said Wednesday that Stribling (ankle) is likely at least ""a couple weeks away"" from returning to practice, Harrison Rich of the San Francisco Chronicle reports. ""I don't know. I mean, nothing's changed,"" Shanahan said, regarding a timeline for the rookie receiver.",2026-11-25T20:43Z
 Mike Evans,San Francisco 49ers,Questionable,"Evans (Achilles) won't practice Wednesday, Harrison Rich of the San Francisco Chronicle reports.",2026-11-25T20:07Z
-Brock Purdy,San Francisco 49ers,Questionable,"Purdy didn't practice Wednesday due to an ankle injury, Vic Tafur of The Athletic reports.",2026-11-25T19:57Z
 Ernest Jones IV,Seattle Seahawks,Questionable,"Jones (knee) was a limited participant in Wednesday's practice, John Boyle of the Seahawks' official site reports.",2026-11-26T02:38Z
 Quenton Nelson,Seattle Seahawks,Out,"Head coach Mike Macdonald told reporters Wednesday that Nelson (knee) will not play against the 49ers on Sunday, Brady Henderson of ESPN.com reports.",2026-11-26T00:47Z
 Abraham Lucas,Seattle Seahawks,Out,"Lucas (ankle) has been ruled out for Sunday's game against the 49ers, Brady Henderson of ESPN.com reports.",2026-11-26T00:44Z
