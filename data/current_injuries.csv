@@ -5,12 +5,12 @@ Carson Beck,Arizona Cardinals,Out,"Beck (back) will not play Sunday against the 
 Karson Sharar,Arizona Cardinals,Questionable,questionable,2026-11-26T20:31Z
 Hunter Long,Arizona Cardinals,Questionable,questionable,2026-11-26T20:30Z
 Cody Simon,Arizona Cardinals,Questionable,Simon (calf) is questionable to return to Sunday's game against the Chiefs.,2026-11-22T20:06Z
+Zachariah Branch,Atlanta Falcons,Out,"Branch (hamstring) has been ruled out for Sunday's game at Minnesota, Will McFadden of the Falcons' official site reports.",2026-11-27T19:39Z
 Jahan Dotson,Atlanta Falcons,Out,"Dotson (hamstring) has been ruled out for Sunday's game at Minnesota, Will McFadden of the Falcons' official site reports.",2026-11-27T19:03Z
 DeMarcco Hellams,Atlanta Falcons,Out,out,2026-11-27T18:27Z
 Matthew Bergeron,Atlanta Falcons,Out,out,2026-11-27T18:27Z
 Billy Bowman Jr.,Atlanta Falcons,Out,out,2026-11-27T18:27Z
-Zachariah Branch,Atlanta Falcons,Out,out,2026-11-27T18:27Z
-Jaylinn Hawkins,Baltimore Ravens,Questionable,"Hawkins (knee) was a limited participant in Thursday's practice, Jonas Shaffer of TheBaltimoreBanner.com reports.",2026-11-26T23:14Z
+Jaylinn Hawkins,Baltimore Ravens,Out,"Hawkins (knee) was a limited participant in Thursday's practice, Jonas Shaffer of TheBaltimoreBanner.com reports.",2026-11-26T23:14Z
 Derrick Henry,Baltimore Ravens,Questionable,Henry (concussion) was listed as a full participant in Thursday's practice.,2026-11-26T21:50Z
 Olaivavega Ioane,Baltimore Ravens,Questionable,questionable,2026-11-26T21:39Z
 Chidobe Awuzie,Baltimore Ravens,Questionable,questionable,2026-11-26T21:37Z
@@ -43,7 +43,7 @@ Jordan McFadden,Chicago Bears,Out,inactive,2026-11-26T16:36Z
 Elijah Hicks,Chicago Bears,Out,inactive,2026-11-26T16:36Z
 Kyler Gordon,Chicago Bears,Out,Gordon (shoulder) has been ruled out for Thursday's game against the Lions.,2026-11-25T23:53Z
 Roschon Johnson,Chicago Bears,Out,Johnson (ankle) has been ruled out  for Thursday's game against the Lions.,2026-11-25T20:15Z
-Dalton Risner,Cincinnati Bengals,Questionable,"Risner (knee) is considered day-to-day, Mike Petraglia of CLNSCincy.com reported Wednesday.",2026-11-26T03:07Z
+Dalton Risner,Cincinnati Bengals,Out,out,2026-11-27T19:28Z
 Jalen Davis,Cincinnati Bengals,Injured Reserve,"Davis (hamstring) has been ruled out for Monday's game against the Commanders, Mike Petraglia of CLNSCincy.com reports.",2026-11-24T00:04Z
 Andrei Iosivas,Cincinnati Bengals,Injured Reserve,"Iosivas (thumb) was downgraded to out for Monday's game against the Commanders, Mike Petraglia of CLNSCincy.com reports.",2026-11-23T22:36Z
 Oren Burks,Cincinnati Bengals,Injured Reserve,The Bengals placed Burks (groin) on injured reserve Saturday.,2026-11-21T19:53Z
@@ -186,7 +186,7 @@ Arvell Reese,New York Giants,Questionable,"Reese (back) was a limited participan
 Shelby Harris,New York Giants,Questionable,questionable,2026-11-25T21:14Z
 Greg Newsome II,New York Giants,Injured Reserve,"The Giants placed Newsome (ankle) on injured reserve Tuesday, Dan Salomone of the team's official site reports.",2026-11-25T00:42Z
 Omar Cooper Jr.,New York Jets,Out,"Head coach Aaron Glenn announced Friday that Cooper (ankle) will remain out for Sunday's game against the Dolphins, Brian Costello of the New York Post reports.",2026-11-27T15:56Z
-Harrison Phillips,New York Jets,Questionable,Phillips (ankle) was listed as a full participant in the Jets' practice estimate Thursday.,2026-11-27T02:12Z
+Harrison Phillips,New York Jets,Questionable,Phillips (ankle) was listed as a limited participant in the Jets' practice estimate Thursday.,2026-11-27T02:12Z
 David Onyemata,New York Jets,Injured Reserve,Onyemata (abdomen) was estimated as a full practice participant on Wednesday's report.,2026-11-26T01:10Z
 T'Vondre Sweat,New York Jets,Injured Reserve,"The Jets designated Sweat (knee) for return from injured reserve Wednesday, Eric Allen of the Jets' official site reports.",2026-11-25T22:18Z
 Joseph Ossai,New York Jets,Questionable,questionable,2026-11-25T21:07Z
@@ -203,12 +203,12 @@ Ajani Cornelius,Philadelphia Eagles,Out,inactive,2026-11-26T20:14Z
 AJ Epenesa,Philadelphia Eagles,Out,inactive,2026-11-26T20:14Z
 Arnold Ebiketie,Philadelphia Eagles,Out,Ebiketie (oblique) has been ruled out for Thursday's game against the Cowboys.,2026-11-25T22:25Z
 Jonathan Jones,Philadelphia Eagles,Out,Jones (ankle) has been ruled out for Thursday's game against the Cowboys.,2026-11-25T22:23Z
+Cole Holcomb,Pittsburgh Steelers,Out,Holcomb (heel) is inactive Friday against the Broncos.,2026-11-27T19:24Z
+Kaden Wetjen,Pittsburgh Steelers,Out,Wetjen (coach's decision) is inactive Friday against the Broncos.,2026-11-27T19:21Z
 Drew Allar,Pittsburgh Steelers,Out,Allar (coach's decision) is inactive for Friday's game against the Broncos but will serve as Pittsburgh's emergency third QB.,2026-11-27T19:05Z
-Kaden Wetjen,Pittsburgh Steelers,Out,inactive,2026-11-27T18:42Z
 Gabriel Rubio,Pittsburgh Steelers,Out,inactive,2026-11-27T18:42Z
 Sean Murphy-Bunting,Pittsburgh Steelers,Out,inactive,2026-11-27T18:42Z
 Eli Heidenreich,Pittsburgh Steelers,Out,inactive,2026-11-27T18:42Z
-Cole Holcomb,Pittsburgh Steelers,Out,Holcomb (heel) is questionable for Pittsburgh's matchup versus the Broncos on Friday.,2026-11-27T01:54Z
 Gennings Dunker,Pittsburgh Steelers,Injured Reserve,"Dunker (knee) has been ruled out for Pittsburgh's matchup versus the Broncos on Friday,",2026-11-27T01:50Z
 Alex Highsmith,Pittsburgh Steelers,Out,"Highsmith (ankle) has been ruled out for Friday's game against the Broncos, Teresa Varley of the Steelers' official site reports.",2026-11-26T22:46Z
 Ben Skowronek,Pittsburgh Steelers,Injured Reserve,"The Steelers placed Skowronek (calf) on injured reserve Thursday, Teresa Varley of the team's official site reports.",2026-11-26T22:43Z
@@ -224,7 +224,7 @@ Upton Stout,San Francisco 49ers,Questionable,questionable,2026-11-26T02:33Z
 Siran Neal,San Francisco 49ers,Questionable,questionable,2026-11-26T02:31Z
 Sam Okuayinonu,San Francisco 49ers,Injured Reserve,"Okuayinonu (foot) was spotted walking without a limp in the 49ers' locker room Wednesday, David Lombardi of SFStandard.com reports.",2026-11-25T23:01Z
 De'Zhaun Stribling,San Francisco 49ers,Injured Reserve,"San Francisco head coach Kyle Shanahan said Wednesday that Stribling (ankle) is likely at least ""a couple weeks away"" from returning to practice, Harrison Rich of the San Francisco Chronicle reports. ""I don't know. I mean, nothing's changed,"" Shanahan said, regarding a timeline for the rookie receiver.",2026-11-25T20:43Z
-Anthony Bradford,Seattle Seahawks,Questionable,"Bradford (knee) was estimated as a limited participant in Seattle's practice estimate Thursday, Bob Condotta of The Seattle Times reports.",2026-11-27T02:20Z
+Anthony Bradford,Seattle Seahawks,Questionable,"Bradford (knee) was listed as a limited participant in Seattle's practice estimate Thursday, Bob Condotta of The Seattle Times reports.",2026-11-27T02:20Z
 Drew Lock,Seattle Seahawks,Questionable,"Lock (elbow) was a limited participant in Thursday's practice, Bob Condotta of The Seattle Times reports.",2026-11-26T22:32Z
 Uchenna Nwosu,Seattle Seahawks,Questionable,questionable,2026-11-26T22:23Z
 Patrick O'Connell,Seattle Seahawks,Questionable,questionable,2026-11-26T22:23Z
