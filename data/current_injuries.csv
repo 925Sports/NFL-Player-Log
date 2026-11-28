@@ -1,10 +1,10 @@
 player,team,status,comment,date
+Zachary Carter,Arizona Cardinals,Injured Reserve,"Carter (knee) has been ruled out for Sunday's game against the Commanders, Bo Brack of GoPHNX.com reports.",2026-11-28T02:25Z
 Jon Gaines II,Arizona Cardinals,Out,"Gaines (ankle) is out for Sunday's game versus Washington, Josh Weinfuss of ESPN.com reports.",2026-11-28T01:57Z
 Hunter Long,Arizona Cardinals,Questionable,"Long (ankle) is questionable for Sunday's game against the Commanders, Bo Brack of GoPHNX.com reports.",2026-11-28T00:53Z
 Jeremiyah Love,Arizona Cardinals,Injured Reserve,"Head coach Mike LaFleur said Friday that he has no update on Love (ankle), who is eligible to come off injured reserve following Sunday's game against the Commanders, Bo Brack of GoPHNX.com reports.",2026-11-27T18:12Z
 Carson Beck,Arizona Cardinals,Out,"Beck (back) will not play Sunday against the Commanders, coach Mike LaFleur said Friday, Josh Weinfuss of ESPN.com reports.",2026-11-27T17:36Z
 Karson Sharar,Arizona Cardinals,Questionable,questionable,2026-11-26T20:31Z
-Cody Simon,Arizona Cardinals,Questionable,Simon (calf) is questionable to return to Sunday's game against the Chiefs.,2026-11-22T20:06Z
 Matthew Bergeron,Atlanta Falcons,Out,Bergeron (back) has been ruled out for Sunday's game against the Vikings.,2026-11-28T02:04Z
 DeMarcco Hellams,Atlanta Falcons,Out,Hellams (foot) has been ruled out for Sunday's game against the Vikings.,2026-11-28T02:02Z
 Billy Bowman Jr.,Atlanta Falcons,Out,"Bowman (hamstring) has been ruled out for Sunday's game against the Vikings, Will McFadden of the Falcons' official site reports.",2026-11-27T23:45Z
@@ -41,15 +41,15 @@ Jordan McFadden,Chicago Bears,Out,inactive,2026-11-26T16:36Z
 Elijah Hicks,Chicago Bears,Out,inactive,2026-11-26T16:36Z
 Kyler Gordon,Chicago Bears,Out,Gordon (shoulder) has been ruled out for Thursday's game against the Lions.,2026-11-25T23:53Z
 Roschon Johnson,Chicago Bears,Out,Johnson (ankle) has been ruled out  for Thursday's game against the Lions.,2026-11-25T20:15Z
+Jalen Davis,Cincinnati Bengals,Injured Reserve,Davis (hamstring) is officially listed as doubtful for Sunday's game versus New Orleans.,2026-11-28T02:16Z
 Dalton Risner,Cincinnati Bengals,Out,"Risner (knee) is out for Sunday's game versus New Orleans, Charlie Goldsmith of Fox 19 Now Cincinnati reports.",2026-11-28T02:04Z
 Andrei Iosivas,Cincinnati Bengals,Injured Reserve,Iosivas (thumb) is questionable for Sunday's game against the Saints.,2026-11-27T21:34Z
 Tee Higgins,Cincinnati Bengals,Questionable,"After not practicing Friday, Higgins (hamstring) is listed as questionable for Sunday's game against the Saints, Katherine Terrell of ESPN.com reports.",2026-11-27T20:21Z
-Jalen Davis,Cincinnati Bengals,Injured Reserve,"Davis (hamstring) has been ruled out for Monday's game against the Commanders, Mike Petraglia of CLNSCincy.com reports.",2026-11-24T00:04Z
 Oren Burks,Cincinnati Bengals,Injured Reserve,The Bengals placed Burks (groin) on injured reserve Saturday.,2026-11-21T19:53Z
+Austin Barber,Cleveland Browns,Questionable,"Barber (knee) is listed as questionable for Sunday's game against the Raiders, Scott Petrak of the Elyria Chronicle-Telegram reports.",2026-11-28T02:28Z
 Derek Barnett,Cleveland Browns,Out,"Barnett (hamstring) has been ruled out for Sunday night's game against the Raiders, Mary Kay Cabot of The Cleveland Plain Dealer reports.",2026-11-28T01:57Z
 Raheim Sanders,Cleveland Browns,Injured Reserve,"Sanders (hip) is questionable for Sunday's game against the Raiders, Mary Kay Cabot of the Cleveland Plain Dealer reports.",2026-11-27T18:31Z
 Denzel Boston,Cleveland Browns,Questionable,"Boston (quadriceps) wasn't present for Friday's practice, Mary Kay Cabot of the Cleveland Plain Dealerreports.",2026-11-27T17:13Z
-Austin Barber,Cleveland Browns,Questionable,questionable,2026-11-25T22:38Z
 Quinnen Williams,Dallas Cowboys,Questionable,"Head coach Brian Schottenheimer said Friday that Williams has been diagnosed with a back strain and back spasms following Thursday's 39-38 loss to the Eagles, Calvin Watkins of The Dallas Morning News reports.",2026-11-27T23:24Z
 Jake Ferguson,Dallas Cowboys,Out,inactive,2026-11-26T20:13Z
 Tyler Booker,Dallas Cowboys,Out,inactive,2026-11-26T20:13Z
@@ -97,10 +97,11 @@ Charvarius Ward,Indianapolis Colts,Out,Ward (knee) has been ruled out for Sunday
 Seth McGowan,Indianapolis Colts,Out,McGowan (hamstring) has been ruled out for Sunday's game against the Giants.,2026-11-27T18:33Z
 Caden Curry,Indianapolis Colts,Injured Reserve,"Curry underwent surgery to repair a ligament tear in his wrist earlier this week and will be sidelined for the rest of the 2026 season, Jake Arthur of Roundtable.io reports.",2026-11-26T02:48Z
 Alec Pierce,Indianapolis Colts,Injured Reserve,"When addressing the press Wednesday, Pierce (heel) noted that the offseason procedure he underwent this past March was done because he was dealing with heel pain that impacted his Achilles, Kevin Bowen of 107.5 The Fan Indianapolis reports.",2026-11-25T18:36Z
+Robert Hainsey,Jacksonville Jaguars,Questionable,Hainsey (knee) is questionable for Sunday's game against the Titans.,2026-11-28T02:21Z
+Patrick Mekari,Jacksonville Jaguars,Injured Reserve,Mekari (back) has been ruled out for Sunday's game against the Titans.,2026-11-28T02:18Z
+B.J. Green II,Jacksonville Jaguars,Injured Reserve,Green (forearm) has been ruled out for Sunday's game against the Titans.,2026-11-28T02:18Z
 Bhayshul Tuten,Jacksonville Jaguars,Out,"Tuten (ankle) wasn't spotted at Friday's practice, Demetrius Harvey of the Florida Times-Union reports.",2026-11-27T17:16Z
 Parker Washington,Jacksonville Jaguars,Out,"Washington (shoulder) will be out for Sunday's game against the Titans and is considered week-to-week moving forward, Demetrius Harvey of the Florida Times-Union reports.",2026-11-27T15:44Z
-Patrick Mekari,Jacksonville Jaguars,Injured Reserve,The Jaguars designated Mekari (back) to return from injured reserve Wednesday.,2026-11-26T02:46Z
-Robert Hainsey,Jacksonville Jaguars,Questionable,questionable,2026-11-24T12:39Z
 Trey Smith,Kansas City Chiefs,Questionable,"Head coach Andy Reid said Smith sustained an ankle sprain during Thursday's 13-10 loss in Buffalo, Charles Goldman of AtoZSports.com reports.",2026-11-27T05:22Z
 Jalen Royals,Kansas City Chiefs,Questionable,"Head coach Andy Reid said Royals suffered a sprained ankle during Thursday's 13-10 loss in Buffalo, Charles Goldman of AtoZSports.com reports.",2026-11-27T05:17Z
 Garrett Nussmeier,Kansas City Chiefs,Out,Nussmeier (coach's decision) is inactive but will serve as the Chiefs' emergency third quarterback against the Bills on Thursday.,2026-11-27T00:05Z
@@ -111,25 +112,25 @@ Marcus Harris,Kansas City Chiefs,Out,inactive,2026-11-27T00:01Z
 Omarr Norman-Lott,Kansas City Chiefs,Out,Norman-Lott (knee) has been ruled out ahead of Thursday night's game against the Bills.,2026-11-26T02:54Z
 Jaylon Moore,Kansas City Chiefs,Out,Moore (ankle) has been ruled out ahead of Thursday night's game against the Bills.,2026-11-26T02:51Z
 Ben VanSumeren,Kansas City Chiefs,Injured Reserve,The Chiefs placed VanSumeren (knee) on the reserve/injured list Tuesday.,2026-11-24T21:28Z
+Tim Keenan III,Las Vegas Raiders,Out,"Keenan (knee) has been ruled out for Sunday's game against the Browns, Scott Petrak of the Elyria Chronicle-Telegram reports.",2026-11-28T02:31Z
+Jackson Powers-Johnson,Las Vegas Raiders,Out,"Powers-Johnson (Achiles) has been ruled out for Sunday's game against the Browns, Sam Warren of The Athletic reports.",2026-11-28T02:28Z
 Adam Butler,Las Vegas Raiders,Out,"Butler (concussion) has been ruled out for Sunday night's game against the Browns, Sam Warren of The Athletic reports.",2026-11-28T01:40Z
 Tonka Hemingway,Las Vegas Raiders,Out,"Hemingway (stinger) has been ruled out for Sunday's game against the Browns, Scott Petrak of the Elyria Chronicle-Telegram reports.",2026-11-28T01:03Z
 Darrell Luter Jr.,Las Vegas Raiders,Questionable,questionable,2026-11-27T21:58Z
 JJ Pegues,Las Vegas Raiders,Questionable,questionable,2026-11-27T21:58Z
-Tim Keenan III,Las Vegas Raiders,Out,out,2026-11-27T21:57Z
-Jackson Powers-Johnson,Las Vegas Raiders,Out,out,2026-11-27T21:54Z
 Brock Bowers,Las Vegas Raiders,Questionable,"Bowers (ankle) will be listed as questionable for Sunday night's game against the Browns, Adam Hill of the Las Vegas Review-Journal reports.",2026-11-27T20:47Z
 Patrick Johnson,Las Vegas Raiders,Injured Reserve,The Raiders designated Johnson (neck) to return from injured reserve Wednesday.,2026-11-26T03:07Z
+Kendall Williamson,Los Angeles Chargers,Questionable,Williamson (calf) is questionable for Sunday's game against the Patriots.,2026-11-28T02:32Z
 Tuli Tuipulotu,Los Angeles Chargers,Questionable,"Tuipulotu (ankle) is listed as questionable for Sunday's game against the Patriots, Omar Navarro of the Chargers' official site reports.",2026-11-28T01:31Z
 Brenen Thompson,Los Angeles Chargers,Doubtful,"Thompson (hamstring) is listed as doubtful for Sunday's game against the Patriots, Omar Navarro of the Chargers' official site reports.",2026-11-28T01:24Z
 Tarheeb Still,Los Angeles Chargers,Questionable,"Still (ankle) is officially listed as questionable for Sunday's game versus the Patriots, Omar Navarro of the Chargers' official site reports.",2026-11-28T01:22Z
-Akheem Mesidor,Los Angeles Chargers,Doubtful,"Mesidor (ankle) is officially listed as doubtful for Sunday's game versus the Patriots, Omar Navarro of the Chargers' official site reports.",2026-11-28T01:13Z
-Daiyan Henley,Los Angeles Chargers,Out,"Henley (knee) is officially listed as out for Sunday's game versus New England, Omar Navarro of the Chargers' official site reports.",2026-11-28T01:08Z
+Akheem Mesidor,Los Angeles Chargers,Doubtful,"Mesidor (ankle) is listed as doubtful for Sunday's game versus the Patriots, Omar Navarro of the Chargers' official site reports.",2026-11-28T01:13Z
+Daiyan Henley,Los Angeles Chargers,Out,"Henley (knee) is listed as out for Sunday's game versus New England, Omar Navarro of the Chargers' official site reports.",2026-11-28T01:08Z
 Justin Herbert,Los Angeles Chargers,Out,Herbert (concussion) has been ruled out for Sunday's game against the Patriots.,2026-11-27T22:24Z
 David Njoku,Los Angeles Chargers,Questionable,Njoku (shoulder) is listed as questionable for Sunday's game against New England.,2026-11-27T22:23Z
 Keaton Mitchell,Los Angeles Chargers,Out,Mitchell (knee) has been ruled out for Sunday's game against the Patriots.,2026-11-27T22:20Z
 Deane Leonard,Los Angeles Chargers,Injured Reserve,The Chargers placed Leonard (groin) on injured reserve Thursday.,2026-11-26T19:00Z
 Dalvin Tomlinson,Los Angeles Chargers,Questionable,Tomlinson (knee) did not participate in Wednesday's practice.,2026-11-26T02:19Z
-Kendall Williamson,Los Angeles Chargers,Questionable,questionable,2026-11-24T12:39Z
 Bill Murray,Los Angeles Rams,Out,out,2026-11-28T01:24Z
 Davis Allen,Los Angeles Rams,Doubtful,"Allen is dealing with a high-ankle sprain, according to sources, Ian Rapoport of NFL Network reports.",2026-11-27T20:01Z
 Tyler Higbee,Los Angeles Rams,Questionable,"Higbee (chest) is considered week-to-week, though it's too early to tell if he may be available Thursday, Dec. 3, against the Chiefs, Adam Schefter of ESPN reports Friday.",2026-11-27T19:53Z
@@ -157,16 +158,16 @@ A.J. Brown,New England Patriots,Out,"Brown (hamstring) has been ruled out for Su
 Walter Rouse,New England Patriots,Questionable,Rouse (concussion) did not practice Wednesday.,2026-11-26T03:41Z
 Alijah Vera-Tucker,New England Patriots,Injured Reserve,The Patriots designated Vera-Tucker (hamstring) for return from injured reserve Monday.,2026-11-24T01:00Z
 Drake Maye,New England Patriots,Out,"For now, Maye -- who suffered a fractured right fibula during a Week 10 loss to the Lions -- remains on the Patriots' 53-man roster rather than injured reserve, with coach Mike Vrabel citing the ""balance"" the team is hoping to strike with regard to managing its remaining designated to return from IR slots, Mike Reiss of ESPN.com reports.",2026-11-23T20:26Z
+Asim Richards,New Orleans Saints,Questionable,Richards (knee) is questionable for Sunday's game against the Bengals.,2026-11-28T02:15Z
+Taliese Fuaga,New Orleans Saints,Questionable,Fuaga (knee) is questionable for Sunday's game against the Bengals.,2026-11-28T02:13Z
 Noah Fant,New Orleans Saints,Questionable,"Fant (calf) is questionable for Sunday's game against the Bengals, while Juwan Johnson (hamstring) has been ruled out, Matthew Paras of the New Orleans Times-Picayune reports.",2026-11-27T20:45Z
 Juwan Johnson,New Orleans Saints,Out,"Johnson (hamstring) has been ruled out for Sunday's game at Cincinnati, Katherine Terrell of ESPN.com reports.",2026-11-27T19:55Z
-Asim Richards,New Orleans Saints,Questionable,questionable,2026-11-25T22:04Z
-Taliese Fuaga,New Orleans Saints,Questionable,questionable,2026-11-24T12:39Z
 Shelby Harris,New York Giants,Out,Harris (illness) has been ruled out for Sunday's game against the Colts.,2026-11-28T00:57Z
 Greg Newsome II,New York Giants,Injured Reserve,"The Giants placed Newsome (ankle) on injured reserve Tuesday, Dan Salomone of the team's official site reports.",2026-11-25T00:42Z
+David Onyemata,New York Jets,Injured Reserve,Onyemata (abdomen) is questionable for Sunday's game against the Dolphins.,2026-11-28T02:11Z
+Harrison Phillips,New York Jets,Questionable,Phillips (ankle) is questionable for Sunday's game against the Dolphins.,2026-11-28T02:08Z
 T'Vondre Sweat,New York Jets,Injured Reserve,Sweat (knee) is questionable for Sunday's game against the Dolphins.,2026-11-28T00:37Z
 Omar Cooper Jr.,New York Jets,Out,"Head coach Aaron Glenn announced Friday that Cooper (ankle/groin) will remain out for Sunday's game against the Dolphins, Brian Costello of the New York Post reports.",2026-11-27T15:56Z
-Harrison Phillips,New York Jets,Questionable,Phillips (ankle) was listed as a limited participant in the Jets' practice estimate Thursday.,2026-11-27T02:12Z
-David Onyemata,New York Jets,Injured Reserve,Onyemata (abdomen) was estimated as a full practice participant on Wednesday's report.,2026-11-26T01:10Z
 DeVonta Smith,Philadelphia Eagles,Questionable,"Smith (back) was seen limping badly in the locker room after Thursday's 39-38 win over the Cowboys, Martin Frank of the Delaware News Journal reports.",2026-11-27T02:39Z
 Dallas Goedert,Philadelphia Eagles,Questionable,"Goedert (shoulder) had his right arm in a sling following Thursday's 39-38 victory over the Cowboys, Jimmy Kempski of PhillyVoice.com reports.",2026-11-27T02:30Z
 Gabe Hall,Philadelphia Eagles,Questionable,Hall (wrist) is questionable to return to the Eagles' matchup against the Cowboys on Sunday.,2026-11-27T00:46Z
